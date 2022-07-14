@@ -23,8 +23,7 @@ title: "Senses in Motion: Sensory Processing in Freely Moving Animals"
 description: >- # this means to ignore newlines until "baseurl:"
   Senses in Motion: Sensory Processing in Freely Moving Animals
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://znamlab.org" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  znamlab
+url: "https://sensesinmotion.org" # the base hostname & protocol for your site, e.g. http://example.com
 
 sass:
   sass_dir: _sass
