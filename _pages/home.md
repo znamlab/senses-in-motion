@@ -36,12 +36,12 @@ Experiments in sensory physiology have traditionally relied on recordings in res
 {% endfor %}
 </div>
 
-<div class="col text-center">
+<div class="col-sm-12 text-center">
 <a class="btn btn-success btn-lg" href="#" role="button">Click here to register</a>
 <p></p>
 </div>
 
-<div class="col-sm-12">
+<div class="col-sm-4">
 <h2>Registration</h2>
 <ul>
 <li>Registration is free.</li>
@@ -50,13 +50,15 @@ Experiments in sensory physiology have traditionally relied on recordings in res
 </div>
 
 
-<div class="col-sm-12">
+<div class="col-sm-4">
 <h2>Funding</h2>
 <p>
 The symposium has been made possible by generous support of
 <a href="http://www.sainsburywellcome.org">the Sainsbury Wellcome Centre</a> and ...
 </p>
+</div>
 
+<div class="col-sm-4">
 <h2>Organisers</h2>
 <a href="https://www.sainsburywellcome.org/web/people/sepiedeh-keshavarzi">Sepiedeh Keshavarzi</a> and <a href="https://znamlab.org">Petr Znamenskiy</a>.
 <p></p>

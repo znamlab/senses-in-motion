@@ -1,86 +1,86 @@
 - name: Opening remarks
   break: yes
-  time: 9.00-9.10
+  time: 9.05-9.15
+
+- name: Jasor Kerr
+  title:
+  photo: placeholder_1.png
+  time: 9.15-9.45
+  abstract: ""
+
+- name: Jennifer Bizley
+  title:
+  photo: placeholder_1.png
+  time: 9.45-10.15
+  abstract: ""
+
+- name: Sepiedeh Keshavarzi
+  title:
+  photo: placeholder_1.png
+  time: 10.15-10.45
+  abstract: ""
+
+- name: Coffee break
+  break: yes
+  time: 10.45-11.15
+
+- name: Andrew Straw
+  title:
+  photo: placeholder_1.png
+  time: 11.15-11.45
+  abstract: ""
+
+- name: Eugenia Chiappe
+  title:
+  photo: placeholder_2.png
+  time: 11.45-12.15
+  abstract: ""
+
+- name: Lunch break
+  break: yes
+  time: 12.15-13.15
+
+- name: Cris Niell
+  title:
+  photo: placeholder_2.png
+  time: 13.15-13.45
+  abstract: ""
+
+- name: Malcolm MacIver
+  title:
+  photo: placeholder_1.png
+  time: 13.45-14.15
+  abstract: ""
+
+- name: Jakob Voigts
+  title:
+  photo: placeholder_2.png
+  time: 14.15-14.45
+  abstract: ""
+
+- name: Coffee break
+  break: yes
+  time: 14.45-15.15
+
+- name: Jennifer Hoy
+  title:
+  photo: placeholder_2.png
+  time: 15.15-15.45
+  abstract: ""
+
+- name: Matt Smear
+  title:
+  photo: placeholder_2.png
+  time: 15.45-16.15
+  abstract: ""
 
 - name: Dora Angelaki
   title: "Active sensing and flexible neural coding during visually guided virtual navigation"
   photo: dora_angelaki.png
-  time:
+  time: 16.15-16.45
   abstract: "<p>We will summarize two aspects of naturalistic visually guided navigation.</p>
 
 <p>First, the role of active sensing (gaze) in planning and memory. By analyzing the spatial distribution of human gaze to transiently visible goals in virtual mazes we found that environmental complexity mediated a striking tradeoff in the extent to which attention was directed towards two complimentary aspects of the world model: the reward location and task-relevant transitions. The temporal evolution of gaze revealed rapid, sequential prospection of the future path, evocative of neural replay. These findings suggest that the spatiotemporal characteristics of gaze during navigation are significantly shaped by the unique cognitive computations underlying real-world, sequential decision making.</p>
 
 <p>Second, in a simplified navigation paradigm in monkeys, we explored how neural nodes operate within the recurrent action-perception loops that characterize naturalistic self-environment interactions and how brain networks reconfigure during changing computational demands. Here, we record spiking activity and LFPs simultaneously from the dorsomedial superior temporal area (MSTd), parietal area 7a, and dorsolateral prefrontal cortex (dlPFC) as monkeys navigate in virtual reality to “catch fireflies”. This task requires animals to actively sample from a closed-loop visual environment while concurrently computing latent variables: the evolving distance and angle to a memorized goal. We observed mixed selectivity in all areas, with even a traditionally sensory area (MSTd) tracking latent variables. Strikingly, global encoding profiles and unit-to-unit coupling suggested a functional subnetwork between MSTd and dlPFC, and not between these areas and 7a, as anatomy would suggest. When sensory evidence was rendered scarce, lateral connectivity through neuron-to-neuron coupling within MSTd strengthened but its pattern remained fixed, while neuronal coupling adaptively remapped within 7a and dlPFC. The larger the remapping in 7a/dlPFC and the greater the stability within MSTd, the less was behavior impacted by loss of sensory evidence. These results highlight the distributed nature of neural coding during closed-loop action-perception naturalistic behaviors and suggest internal models may be housed in the pattern of fine-grain lateral connectivity within parietal and frontal cortices.</p>
 "
-
-- name: Jasor Kerr
-  title:
-  photo: placeholder_1.png
-  time:
-  abstract: ""
-
-- name: Cris Niell
-  title:
-  photo: placeholder_2.png
-  time:
-  abstract: ""
-
-- name: Coffee break
-  break: yes
-  time: 11.00-11.30
-
-- name: Sepiedeh Keshavarzi
-  title:
-  photo: placeholder_1.png
-  time:
-  abstract: ""
-
-- name: Jennifer Hoy
-  title:
-  photo: placeholder_2.png
-  time:
-  abstract: ""
-
-- name: Jennifer Bizley
-  title:
-  photo: placeholder_1.png
-  time:
-  abstract: ""
-
-- name: Lunch break
-  break: yes
-  time: 13.00-14.00
-
-- name: Jakob Voigts
-  title:
-  photo: placeholder_2.png
-  time:
-  abstract: ""
-
-- name: Malcolm MacIver
-  title:
-  photo: placeholder_1.png
-  time:
-  abstract: ""
-
-- name: Matt Smear
-  title:
-  photo: placeholder_2.png
-  time:
-  abstract: ""
-
-- name: Coffee break
-  break: yes
-  time: 15.30-16.00
-
-- name: Andrew Straw
-  title:
-  photo: placeholder_1.png
-  time:
-  abstract: ""
-
-- name: Eugenia Chiappe
-  title:
-  photo: placeholder_2.png
-  time:
-  abstract: ""
