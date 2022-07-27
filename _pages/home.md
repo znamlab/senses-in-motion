@@ -63,7 +63,7 @@ Experiments in sensory physiology have traditionally relied on recordings in res
 </div>
 
 <div class="col-sm-12 text-center">
-<a class="btn btn-success btn-lg" href="#" role="button">Click here to register</a>
+<a class="btn btn-success btn-lg" href="https://www.eventbrite.co.uk/e/391517879517" role="button">Click here to register</a>
 <p></p>
 </div>
 
