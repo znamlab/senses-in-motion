@@ -24,12 +24,13 @@ h2 {
 .titlebox {
 	vertical-align: middle;
   padding-left: 20px;
-  padding-bottom: 20px;  
+  padding-bottom: 20px;
 }
 
 .bigtitle {
+  font-weight: bold;
 	font-size: $font-size-base * 1.5;
-	line-height: 40px;
+	line-height: 36px;
 }
 
 @media (min-width: 992px) {
