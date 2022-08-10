@@ -64,10 +64,10 @@ Experiments in sensory physiology have traditionally relied on recordings in res
 
 <div class="col-sm-6">
 <h2>Registration</h2>
-Please register as the auditorium has a capacity limit of 140.
+The symposium will take place in the auditorium at the Sainsbury Wellcome Centre. Please register as the auditorium has a capacity limit.
 <p></p>
 <div class="text-center">
-<a class="btn btn-success btn-lg" href="https://www.eventbrite.co.uk/e/391517879517" role="button">Click here to register</a>
+<a class="btn btn-primary btn-lg" href="https://www.eventbrite.co.uk/e/391517879517" role="button">Click here to register</a>
 </div>
 <p></p>
 </div>
