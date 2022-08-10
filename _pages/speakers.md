@@ -15,7 +15,7 @@ permalink: /speakers
   </h2>
   <p>
   {% if speaker.photo %}
-  <img src="{{ site.url }}{{ site.baseurl }}/images/speakers/{{ speaker.photo }}" style="width: 250px; float: right; margin: 10px 20px 10px 0px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/speakers/{{ speaker.photo }}" style="width: 250px; float: right">
   {% endif %}
   {{ speaker.abstract }}
   </p>
