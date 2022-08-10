@@ -62,7 +62,7 @@ Experiments in sensory physiology have traditionally relied on recordings in res
 <p></p>
 </div>
 
-<div class="col-sm-6">
+<div class="col-sm-12">
 <h2>Registration</h2>
 The symposium will take place in the auditorium at the Sainsbury Wellcome Centre. Please register as the auditorium has a capacity limit.
 <p></p>
@@ -72,7 +72,7 @@ The symposium will take place in the auditorium at the Sainsbury Wellcome Centre
 <p></p>
 </div>
 
-<div class="col-sm-6">
+<div class="col-sm-12">
 <h2>Funding</h2>
 <p>
 The symposium has been made possible by generous support of
