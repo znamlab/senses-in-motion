@@ -62,24 +62,20 @@ Experiments in sensory physiology have traditionally relied on recordings in res
 <p></p>
 </div>
 
-<div class="col-sm-12 text-center">
-<a class="btn btn-success btn-lg" href="https://www.eventbrite.co.uk/e/391517879517" role="button">Click here to register</a>
-<p></p>
-</div>
-
 <div class="col-sm-6">
 <h2>Registration</h2>
-<ul>
-<li>Registration is free.</li>
-<li>Please register by XXX.</li>
-</ul>
+Please register as the auditorium has a capacity limit of 140.
+<p></p>
+<div class="text-center">
+<a class="btn btn-success btn-lg" href="https://www.eventbrite.co.uk/e/391517879517" role="button">Click here to register</a>
 </div>
-
+<p></p>
+</div>
 
 <div class="col-sm-6">
 <h2>Funding</h2>
 <p>
 The symposium has been made possible by generous support of
-<a href="http://www.sainsburywellcome.org">the Sainsbury Wellcome Centre</a> and ...
+<a href="http://www.sainsburywellcome.org">the Sainsbury Wellcome Centre</a> and sponsorship from <a href="https://www.cambridgeneurotech.com/">Cambridge NeuroTech</a>.
 </p>
 </div>
