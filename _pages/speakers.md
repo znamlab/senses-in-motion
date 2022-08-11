@@ -10,6 +10,7 @@ permalink: /speakers
   {% for speaker in site.data.speakers %}
   {% unless speaker.break %}
   <div class="col-sm-12">
+  <p></p>
   <h2 id="{{ speaker.name }}">
   {{ speaker.name }}: {{ speaker.title }}
   </h2>
