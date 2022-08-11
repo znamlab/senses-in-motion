@@ -8,11 +8,11 @@ permalink: /programme
 # Draft symposium programme
 <div class="row">
 <div class="col-sm-12">
-
+<p></p>
 <table class="table table-hover">
   <thead>
     <tr>
-      <th scope="col">Time</th>
+      <th scope="col" style="width: 130px">Time</th>
       <th scope="col">Speaker</th>
       <th scope="col">Title</th>
     </tr>
@@ -22,7 +22,10 @@ permalink: /programme
     <tr>
       <th scope="row">{{ speaker.time }}</th>
       <td>{{ speaker.name }}</td>
-      <td><a href="{{ site.url }}{{ site.baseurl }}/speakers#{{ speaker.name }}">{{ speaker.title }}</a></td>
+      <td>
+      {% unless speaker.break %}<a href="{{ site.url }}{{ site.baseurl }}/speakers#{{ speaker.name }}">{% endunless %}{{ speaker.title }}
+      {% unless speaker.break %}</a>{% endunless %}
+      </td>
     </tr>
     {% endfor %}
   </tbody>

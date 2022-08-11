@@ -1,4 +1,4 @@
-- name: Opening remarks
+- title: Opening remarks
   break: yes
   time: 9.00-9.10
 
@@ -25,7 +25,7 @@
   time: 10.10-10.50
   break: yes
 
-- name: Coffee break
+- title: Coffee break
   break: yes
   time: 10.50-11.20
 
@@ -57,7 +57,7 @@ the fly analogue of the vertebrate spinal cord. Together, these findings support
 bidirectional interactions between the brain and the body orchestrate the interplay between mechanical
 stability and movement flexibility in a manner that is both goal-dependent and motor-context specific."
 
-- name: Lunch break
+- title: Lunch break
   break: yes
   time: 12.20-13.20
 
@@ -84,7 +84,7 @@ stability and movement flexibility in a manner that is both goal-dependent and m
   break: yes
   time: 14.50-15.00
 
-- name: Coffee break
+- title: Coffee break
   break: yes
   time: 15.00-15.30
 
@@ -110,3 +110,8 @@ stability and movement flexibility in a manner that is both goal-dependent and m
 
 <p>Second, in a simplified navigation paradigm in monkeys, we explored how neural nodes operate within the recurrent action-perception loops that characterize naturalistic self-environment interactions and how brain networks reconfigure during changing computational demands. Here, we record spiking activity and LFPs simultaneously from the dorsomedial superior temporal area (MSTd), parietal area 7a, and dorsolateral prefrontal cortex (dlPFC) as monkeys navigate in virtual reality to “catch fireflies”. This task requires animals to actively sample from a closed-loop visual environment while concurrently computing latent variables: the evolving distance and angle to a memorized goal. We observed mixed selectivity in all areas, with even a traditionally sensory area (MSTd) tracking latent variables. Strikingly, global encoding profiles and unit-to-unit coupling suggested a functional subnetwork between MSTd and dlPFC, and not between these areas and 7a, as anatomy would suggest. When sensory evidence was rendered scarce, lateral connectivity through neuron-to-neuron coupling within MSTd strengthened but its pattern remained fixed, while neuronal coupling adaptively remapped within 7a and dlPFC. The larger the remapping in 7a/dlPFC and the greater the stability within MSTd, the less was behavior impacted by loss of sensory evidence. These results highlight the distributed nature of neural coding during closed-loop action-perception naturalistic behaviors and suggest internal models may be housed in the pattern of fine-grain lateral connectivity within parietal and frontal cortices.</p>
 "
+
+- name:
+  title: Social and networking reception - all attendees welcome!
+  time: 17.00-18.00
+  break: yes
