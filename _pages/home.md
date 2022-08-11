@@ -79,3 +79,12 @@ The symposium has been made possible by generous support of
 <a href="http://www.sainsburywellcome.org">the Sainsbury Wellcome Centre</a> and sponsorship from <a href="https://www.cambridgeneurotech.com/">Cambridge NeuroTech</a>.
 </p>
 </div>
+
+<div class="col-sm-12">
+<a href="https://www.sainsburywellcome.org/">
+<img src="{{ site.url }}{{ site.baseurl }}/images/swc_logo.svg" class="img-fluid" alt="SWC logo" width="200 px"></a>
+</div>
+
+<div class="col-sm-12">
+<p></p>
+</div>
