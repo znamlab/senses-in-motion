@@ -20,25 +20,20 @@
   time: 10.10-10.40
   abstract: "To successfully navigate the environment, animals rely on their ability to continuously track their heading direction and speed. I will present our recent data on sensory computations that underlie head motion coding in the rodent brain. By performing chronic single-unit recordings in the retrosplenial cortex of the mouse and monitoring the activity of the same neurons under freely moving and head-restrained conditions, we could disentangle the contribution of various sensory/motor cues to head motion signalling during navigation. We found that retrosplenial cortical neurons can reliably track the speed and direction of head turns in complete darkness by relying on vestibular information. The addition of visual input improved the animal’s perception of angular self-motion and increased the accuracy of this cortical head motion signal. Our findings suggest that while head velocity coding requires vestibular input, where possible, it also uses vision to optimise heading estimation during navigation."
 
-- name: NeuroGears
-  title: TBC
-  time: 10.10-10.50
-  break: yes
-
 - title: Coffee break
   break: yes
-  time: 10.50-11.20
+  time: 10.40-11.10
 
 - name: Andrew Straw
   title: Virtual reality and calcium imaging in freely moving Drosophila
   photo: Straw_portrait.jpeg
-  time: 11.20-11.50
+  time: 11.10-11.40
   abstract: "Fruit flies perform a variety of visual and navigational tasks from visually-mediated stabilization to visual place memory. Despite powerful genetic tools available to Drosophila researchers, our ability to study the neurobiology of insect vision and navigation can be limited by the need to fix flies at the focus of a microscope to record neural activity. Here I will discuss the development of an apparatus to immerse freely moving animals in a computer controlled, reactive 3D visual world. Using this virtual reality apparatus to test freely flying Drosophila, we have shown that when the head of the fly is immobilized with respect to the thorax, freely flying flies are not able to implement basic optomotor stabilization and thus it seems that movement of the head relative to the thorax is an essential component of natural free flight behavior. Ultimately, we would like to record neural activity in freely moving flies, and therefore we are constructing a microscope which automatically tracks freely walking flies to enable calcium imaging during navigational tasks such as path integration. In the future, precision stimulation and recording technologies will allow performing new types of experiments to gain mechanistic insights into insect navigation and, ultimately, will improve our understanding of the behavioral and physiological basis of the ecology of these important organisms."
 
 - name: Eugenia Chiappe
   title: Brain-body interactions control ongoing and future goal-directed actions in exploratory Drosophila
   photo: Eugenia_Chiappe_web5.jpg
-  time: 11.50-12.20
+  time: 11.40-12.10
   abstract: "The uncertainties of the environment alongside inevitable variations in neuromuscular signals change the
 context in which a step occurs, thereby jeopardizing posture stability during goal-directed walking.
 Therefore, to achieve behavioral goals, neuromechanical systems must orchestrate a balance between
@@ -56,6 +51,11 @@ the fly brain that are richly innervated by both higher-order regions and ascend
 the fly analogue of the vertebrate spinal cord. Together, these findings support a model in which
 bidirectional interactions between the brain and the body orchestrate the interplay between mechanical
 stability and movement flexibility in a manner that is both goal-dependent and motor-context specific."
+
+- name: NeuroGears
+  title: TBC
+  time: 12.10-12.20
+  break: yes
 
 - title: Lunch break
   break: yes
