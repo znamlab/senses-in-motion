@@ -15,4 +15,5 @@ by [Jekyll](https://jekyllrb.com) and uses some [Bootstrap](http://www.getbootst
 [Bootswatch](http://www.bootswatch.com), and [Font Awesome](https://fontawesome.com/).
 The source code is maintained on [GitHub](https://github.com/znamlab/znamlab.github.io)
 for version control and is freely available under MIT license.  The website is hosted on
-[GitHub Pages](https://pages.github.com/).
+[GitHub Pages](https://pages.github.com/). Special thanks to Cris Niell for the
+source image used to create the site's banner.
