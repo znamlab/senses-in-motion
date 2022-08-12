@@ -47,7 +47,6 @@ h2 {
 	/* Museo */
 }
 
-
 .navbar-light .navbar-brand,
 .navbar-light .navbar-text {
     color: $logo;
@@ -56,6 +55,12 @@ h2 {
 .navbar-light .navbar-brand {
   font-size: $font-size-base * 1.25;
   font-weight: 600;
+}
+
+@media (max-width: 400px) {
+    .navbar-light .navbar-brand {
+      font-size: $font-size-base;
+    }
 }
 
 .navbar-light .navbar-nav .nav-link {
