@@ -76,7 +76,7 @@ The symposium will take place in the auditorium at the Sainsbury Wellcome Centre
 <h2>Funding</h2>
 <p>
 The symposium has been made possible by generous support of
-<a href="http://www.sainsburywellcome.org">the Sainsbury Wellcome Centre</a> and sponsorship from <a href="https://www.cambridgeneurotech.com/">Cambridge NeuroTech</a>, <a href="https://www.datajoint.com/">DataJoint</a>, and <a href="https://neurogears.org/">NeuroGEARS.</a>
+<a href="http://www.sainsburywellcome.org">the Sainsbury Wellcome Centre</a> and sponsorship from <a href="https://www.cambridgeneurotech.com/">Cambridge NeuroTech</a>, <a href="https://www.datajoint.com/">DataJoint</a>, and <a href="https://neurogears.org/">NeuroGEARS</a>.
 </p>
 </div>
 
