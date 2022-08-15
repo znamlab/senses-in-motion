@@ -81,17 +81,17 @@ The symposium has been made possible by generous support of
 </div>
 
 
-<div class="col-sm-4 text-center" id="sponsorid">
+<div class="col-sm-12 text-center" id="sponsorid">
 <a href="https://www.sainsburywellcome.org/">
 <img src="{{ site.url }}{{ site.baseurl }}/images/swc_logo.svg" class="img-fluid" alt="SWC logo"></a>
 </div>
 
-<div class="col-sm-4 text-center" id="sponsorid">
+<div class="col-sm-6 text-center" id="sponsorid">
 <a href="https://www.cambridgeneurotech.com/">
 <img src="{{ site.url }}{{ site.baseurl }}/images/CamNeuroTech-Logo.png" class="img-fluid" alt="CamNeuroTech logo"></a>
 </div>
 
-<div class="col-sm-4 text-center" id="sponsorid">
+<div class="col-sm-6 text-center" id="sponsorid">
 <a href="https://www.datajoint.com/">
 <img src="{{ site.url }}{{ site.baseurl }}/images/dj2-medium.png" class="img-fluid" alt="DataJoint logo"></a>   
 </div>
