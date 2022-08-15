@@ -87,8 +87,7 @@ stability and movement flexibility in a manner that is both goal-dependent and m
 - name: Cambridge NeuroTech
   title: A neuroscientist's toolbox for electrophysiology and optogenetics
   time: 15.00-15.10
-  abstract: "a brief tech-talk covering our range of neuroscientist-designed high-density neural probes, ultra-small chronic drives and miniature digital headstages for combined electrophysiology and optogenetics in mice and more."
- 
+  break: yes
 
 - title: Coffee break
   break: yes
