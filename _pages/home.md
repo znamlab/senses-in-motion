@@ -91,6 +91,12 @@ The symposium has been made possible by generous support of
 <img src="{{ site.url }}{{ site.baseurl }}/images/CamNeuroTech-Logo.png" class="img-fluid" alt="CamNeuroTech logo"></a>
 </div>
 
+<div class="col-sm-6 text-center" id="sponsorid">
+<a href="https://www.datajoint.com/">
+<img src="{{ site.url }}{{ site.baseurl }}/images/dj2-medium.png" class="img-fluid" alt="DataJoint logo"></a>   
+</div>
+
+
 <div class="col-sm-12">
 <p></p>
 </div>
