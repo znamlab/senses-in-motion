@@ -76,12 +76,12 @@ The symposium will take place in the auditorium at the Sainsbury Wellcome Centre
 <h2>Funding</h2>
 <p>
 The symposium has been made possible by generous support of
-<a href="http://www.sainsburywellcome.org">the Sainsbury Wellcome Centre</a> and sponsorship from <a href="https://www.cambridgeneurotech.com/">Cambridge NeuroTech</a> and <a href="https://www.datajoint.com/">DataJoint</a>.
+<a href="http://www.sainsburywellcome.org">the Sainsbury Wellcome Centre</a> and sponsorship from <a href="https://www.cambridgeneurotech.com/">Cambridge NeuroTech</a>, <a href="https://www.datajoint.com/">DataJoint</a>, and <a href="https://neurogears.org/">NeuroGEARS</a>
 </p>
 </div>
 
 
-<div class="col-sm-12 text-center" id="sponsorid">
+<div class="col-sm-6 text-center" id="sponsorid">
 <a href="https://www.sainsburywellcome.org/">
 <img src="{{ site.url }}{{ site.baseurl }}/images/swc_logo.svg" class="img-fluid" alt="SWC logo"></a>
 </div>
@@ -96,6 +96,10 @@ The symposium has been made possible by generous support of
 <img src="{{ site.url }}{{ site.baseurl }}/images/dj2-medium.png" class="img-fluid" alt="DataJoint logo"></a>   
 </div>
 
+<div class="col-sm-6 text-center" id="sponsorid">
+<a href="https://neurogears.org/">
+<img src="{{ site.url }}{{ site.baseurl }}/images/neurogears.svg" class="img-fluid" alt="NeuroGEARS logo"></a>   
+</div>
 
 <div class="col-sm-12">
 <p></p>
