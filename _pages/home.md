@@ -80,15 +80,13 @@ The symposium has been made possible by generous support of
 </p>
 </div>
 
-<div class="row justify-content-around">
-  <div class="col-sm-12 text-center">
-    <a href="https://www.sainsburywellcome.org/">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/swc_logo.svg" class="img-fluid" alt="SWC logo" width="200 px"></a>
-  </div>
-  <div class="col-sm-12 text-center">
-    <a href="https://www.cambridgeneurotech.com/"> 
-    <img src="{{ site.url }}{{ site.baseurl }}/images/CamNeuroTech-Logo.png" class="img-fluid" alt="CamNeuroTech logo" width="200 px"></a>
-  </div>
+
+<div class="col-sm-12 pl-2 text-center">
+<a href="https://www.sainsburywellcome.org/">
+<img src="{{ site.url }}{{ site.baseurl }}/images/swc_logo.svg" class="img-fluid" alt="SWC logo" width="200 px"></a>
+
+<a href="https://www.cambridgeneurotech.com/"> 
+<img src="{{ site.url }}{{ site.baseurl }}/images/CamNeuroTech-Logo.png" class="img-fluid" alt="CamNeuroTech logo" width="200 px"></a
 </div>
 
 <div class="col-sm-12">
