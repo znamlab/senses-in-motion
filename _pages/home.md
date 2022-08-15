@@ -81,7 +81,7 @@ The symposium has been made possible by generous support of
 </div>
 
 
-<div class="col-sm-6 text-center">
+<div class="col-sm-12 text-center">
 <a href="https://www.sainsburywellcome.org/">
 <img src="{{ site.url }}{{ site.baseurl }}/images/swc_logo.svg" class="img-fluid" alt="SWC logo" width="200 px"></a>
 
