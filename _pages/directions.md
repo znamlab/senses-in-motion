@@ -1,7 +1,7 @@
 ---
-title: "Znamenskiy Lab - Contact"
+title: "Senses in Motion - Directions"
 layout: default
-excerpt: "Get in touch with the Znamenskiy lab at the Francis Crick Institute"
+excerpt: "Directions for the Senses in Motion Symposium"
 sitemap: false
 permalink: /directions
 ---
