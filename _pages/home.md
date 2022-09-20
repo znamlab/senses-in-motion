@@ -66,7 +66,7 @@ Experiments in sensory physiology have traditionally relied on recordings in res
 <h2>Venue and registration</h2>
 The goal of the symposium is to foster discussion and collaboration in this nascent field. As such, we believe the informal interactions during coffee and lunch breaks are as important as the Q&A sessions during the talks. The symposium will take place <b>in person</b> at the Sainsbury Wellcome Centre in London.
 <p></p>
-<b>UPDATE:</b> We have now opened registration for virtual attendance for those unable to attend in person. Symposium talks will be streamed via Zoom. The Zoom link will be distributed to registered virtual attendees before the symposium.
+<b>UPDATE:</b> We have now opened registration for virtual attendance for those unable to attend in person. Symposium talks will be streamed via Zoom. The Zoom link will be distributed to registered virtual attendees before the symposium. If you have reserved an in-person ticket but would prefer to attend virtually, we kindly ask you to cancel your ticket before registering for the online option.
 
 <p></p>
 <div class="text-center">
