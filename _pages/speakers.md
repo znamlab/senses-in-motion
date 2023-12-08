@@ -1,11 +1,13 @@
 ---
 title: "Senses in Motion - Speakers"
 layout: gridlay
-excerpt: "Symposium speakers"
+excerpt: "Speakers"
 sitemap: false
 permalink: /speakers
 ---
-# Symposium speakers
+
+# Speakers
+
 <div class="row">
   {% for speaker in site.data.speakers %}
   {% unless speaker.break %}
@@ -23,6 +25,6 @@ permalink: /speakers
   </div>
   {% endunless %}
 
-  {% endfor %}
+{% endfor %}
 
 </div>
