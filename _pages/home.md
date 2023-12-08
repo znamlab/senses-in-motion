@@ -28,7 +28,7 @@ Sensory Processing in Freely Moving Animals
 <div class="bigtitle">
 Senses in Motion: Sensory Processing in Freely Moving Animals
 </div>
-OCTOBER 17 2022, SAINSBURY WELLCOME CENTRE, LONDON, UK
+11-13 MARCH 2024, HARNACK HOUSE, BERLIN
 </div>
 <img src="{{ site.url }}{{ site.baseurl }}/images/jumping_mouse.jpg">
 </div>
