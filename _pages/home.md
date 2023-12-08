@@ -15,7 +15,7 @@ permalink: /
   ">
 <div class="titlebox">
 <div class="bigtitle">
-Senses in Motion Conference 2024<br>
+Senses in Motion 2024<br>
 Sensory Processing in Freely Moving Animals
 </div>
 11-13 MARCH 2024, HARNACK HOUSE, BERLIN
