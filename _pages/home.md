@@ -8,7 +8,7 @@ permalink: /
 <div class="col-sm-12 text-light d-none d-lg-block">
 <div class="bg-image"
   style="
-    background-image: url('{{ site.url }}{{ site.baseurl }}/images/jumping_mouse.jpg');
+    background-image: url('{{ site.url }}{{ site.baseurl }}/images/flying-bat-Mosslab-cropped.gif');
     background-size: 100%;
     background-repeat: no-repeat;
     height: 320px
@@ -30,7 +30,7 @@ Senses in Motion: Sensory Processing in Freely Moving Animals
 </div>
 11-13 MARCH 2024, HARNACK HOUSE, BERLIN
 </div>
-<img src="{{ site.url }}{{ site.baseurl }}/images/jumping_mouse.jpg">
+<img src="{{ site.url }}{{ site.baseurl }}/images/flying-bat-Mosslab-cropped.gif">
 </div>
 
 <div class="col-sm-12">
@@ -57,11 +57,11 @@ Senses in Motion: Sensory Processing in Freely Moving Animals
 {% endfor %}
 </p>
 <h2>Organisers</h2>
-<h6 class="text-center"><strong>
+<p class="text-center"><strong>
 <a href="https://www.keshavarzilab.com/">Sepiedeh Keshavarzi</a> &nbsp;
 <a href="https://znamlab.org">Petr Znamenskiy</a> &nbsp;
 <a href="https://mpinb.mpg.de/en/research-groups/groups/behavior-and-brain-organization/group-leader.html">Jason Kerr</a><br/>
-</strong></h6>
+</strong></p>
 <h2>Registration</h2>
 <p class="text-center">
 <ul>
