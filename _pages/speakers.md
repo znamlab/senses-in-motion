@@ -9,11 +9,13 @@ permalink: /speakers
 # Speakers
 
 <div class="row">
-  {% for speaker in site.data.speakers %}
+  {% assign sorted = site.data.speakers | sort: 'name'  %}
+  {% for speaker in sorted %}
   {% unless speaker.break %}
-  <div class="col-sm-12">
+  {% if speaker.title %}
+  <div class="col-sm-12" id="{{ speaker.name }}">
   <p></p>
-  <h2 id="{{ speaker.name }}">
+  <h2>
   {{ speaker.name }}: {{ speaker.title }}
   </h2>
   <p>
@@ -23,6 +25,7 @@ permalink: /speakers
   {{ speaker.abstract }}
   </p>
   </div>
+  {% endif %}
   {% endunless %}
 
 {% endfor %}

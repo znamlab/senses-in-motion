@@ -3,117 +3,155 @@
   time: 9.00-9.10
 
 - name: Iain Couzin
-  title:
-  abstract:
+  title: The Geometry of Decision Making
+  abstract: Running, swimming, or flying through the world, animals are constantly making decisions while on the move—decisions that allow them to choose where to eat, where to hide, and with whom to associate. Despite this most studies have considered only on the outcome of, and time taken to make, decisions. Motion is, however, crucial in terms of how space is represented by organisms during spatial decision-making. Employing a range of new technologies, including automated tracking, computational reconstruction of sensory information, and immersive ‘holographic’ virtual reality (VR) experiments with fruit flies, locusts and zebrafish (representing aerial, terrestrial and aquatic locomotion, respectively), I will demonstrate that this time-varying representation results in the emergence of new and fundamental geometric principles that considerably impact effective decision-making. Specifically, we find that the brain spontaneously reduces multi-choice decisions into a series of abrupt (critical) binary decisions in space-time, a process that repeats until only one option—the one ultimately selected by the individual—remains. This mechanism facilitates highly effective decision-making, and is shown to be robust both to the number of options available, and to context, such as whether options are static (e.g. refuges) or mobile (e.g. other animals). In addition, we find evidence that the same geometric principles of decision-making occur across scales of biological organization, from neural dynamics to animal collectives, suggesting they are fundamental features of spatiotemporal computation.
 
 - name: Sandeep Robert Datta
-  title:
-  abstract:
+  title: Exploring active sampling with Motion Sequencing
+  abstract: Ethologists describing animals in the wild have long appreciated that naturalistic, self-motivated behavior is built from modules that are linked together over time into predictable sequences. Many such sequences are built to extract information from the environment. And yet, it remains unclear how the brain regulates the selection of individual behavioral modules for expression at any given moment, or how it dynamically composes these modules into the fluid behaviors observed when animals act of their own volition, and in the absence of experimental restraint, task structure or explicit reward. Here we use novel methods for characterizing spontaneous mouse behavior — combined with neural recordings and closed-loop manipulations — to reveal mechanisms used by the brain to create the architecture of self-guided behavior. We also present preliminary data demonstrating how whole body postural dynamics are coordinated with olfactory sampling.
 
 - name: Jennifer Bizley
-  title:
-  abstract:
+  title: Unpicking attention, sensory and motor signals in auditory and parietal cortex
+  abstract: To understand how selective attention modulates sensory processing we trained ferrets to switch between localizing visual signals in the presence of simultaneous auditory distractors, or vice versa, in a freely moving 3-choice localization task. The attended modality was cued by interspersing unisensory trials with audiovisual trials. Once trained, animals were implanted with recording arrays in auditory, parietal and frontal cortex and spiking responses were recorded during behaviour using wireless recording methods. We replicated other studies from both our lab and others that have demonstrated that firing rates to sounds are lower when sounds are attended than unattended (or in this case actively ignored). To understand how sensory signals were potentially multiplexed with other non-sensory inputs we tracked the animals’ movement was tracked using DeepLabCut to determine position within the chamber, speed and acceleration. These signals alongside information about the timing and position of the stimulus, reward delivery and task context were used as predictors in a poisson GLM.  This revealed rich dynamics related to movement speed and/ or acceleration in both parietal and auditory cortical neurons.
+  photo: bizley.jpg
 
 - name: Cynthia Moss
-  title:
-  abstract:
+  title: Dynamics of 3D space coding in echolocating bats
+  abstract: From a barrage of dynamic stimuli, an organism must detect, sort, group, and track biologically relevant signals to communicate with conspecifics, seek food, and navigate in space. The success of these survival behaviors depends on an animal’s selective attention to relevant stimuli.  Little is known about fine scale neural dynamics that accompany rapid shifts in selective attention in freely behaving animals, primarily because reliable indicators of spatial attention are lacking in standard model organisms.  The echolocating bat can serve to bridge this gap, as it exhibits robust dynamic behavioral indicators of auditory spatial attention. In particular, the bat actively shifts the aim of its sonar beam to inspect objects in different directions, akin to eye movements and foveation in humans and other visually dominant animals. Further, the bat adjusts the temporal features of sonar calls to attend to objects at different distances, yielding a metric of gaze along the range axis. Thus, an echolocating bat’s call features not only convey the acoustic information it uses to probe its surroundings, but also provide fine scale metrics of auditory attention in target tracking and spatial navigation. This talk will elaborate on explicit metrics of sonar-guided attention in echolocating animals that reveal neural dynamics in 3D spatial coding.
+  photo: moss.jpg
 
 - name: Johnathan Whitlock
-  title:
-  abstract:
+  title: Cortical integration of body posture and the vibrissae in freely exploring rats
+  abstract: The field is just beginning to understand how cortical systems respond to dynamic head and body posture in freely moving animals, outside of laboratory tasks. To better understand this, my lab developed methods to quantify and visualize neural spiking in relation to 3D pose kinematics in unrestrained rodents. This approach revealed that head and back kinematics are densely and precisely encoded not only in posterior parietal cortex (PPC) and motor cortices, but appear to be general feature of primary cortical areas, including primary auditory, visual and somatosensory cortices. The ubiquity of such tuning in sensory systems prompted us to expand our tracking framework to include the whiskers and eyes by mounting facial cameras, and to ask how active vibrissal deployment integrates with head kinematics and whole body movement. This was combined with Neuropixels recordings spanning the PPC and neighboring S1 barrel fields. Ongoing work indicates that neural encoding of whisker position and movement in S1 is conjunctive for dynamic head posture and can be gated by whole-body locomotion. Thus, sensory signaling in S1 cortex appears to incorporate a rich array of extrinsic signals related to the ongoing behavior of the animal.
+  photo: whitlock.png
 
 - name: Rasmus Petersen
-  title:
-  abstract:
+  title: The function of somatosensory cortex during natural behaviour of freely moving mice
+  abstract: In order to investigate the function of somatosensory cortex in freely moving mice engaged in intrinsically motivated exploratory behaviour, we combine electrophysiological recording of the activity of neurons in the whisker primary somatosensory cortex (wS1) with video-based 3D reconstruction of mouse body posture from multiple cameras.  As expected of wS1 neurons, the best predictor of firing rate is whisker-object touch.  However, postural/motor state also substantially modulates wS1 activity.  Sensorimotor variables describing the orientation of the head or non-rigid motion of the body explain substantial firing rate variance beyond that accounted for by touch.  These results challenge the classic feedforward sensory processing framework and suggest that, under the natural conditions of freely moving exploration, there is profound sensorimotor integration in primary sensory cortex.
 
 - name: Weijian Zong
-  title:
-  abstract:
+  title: Miniature two-photon microscopes for studying brain microcircuits in freely moving animals
+  abstract: Understanding complex cognitive functions starts with elucidating how information is encoded and transmitted within individual brain microcircuits. To achieve this goal, we need recording techniques capable of capturing the activity of large populations of neurons with a temporal precision close to the timescale of spikes and a spatial resolution high enough to resolve their spatial organization. Moreover, these techniques should be compatible with well-established and well-validated behavioral paradigms. Traditional extracellular recording techniques have drawbacks regarding their ability to identify genetically defined cell types and are of limited use for studies of subcellular dynamics. Two-photon (2P) functional imaging stands out by offering subcellular spatial resolution and near-spike temporal resolution, so it has emerged as one of the workhorses to study neural populations' coding and computational properties. However, its application had been limited by the bulky nature of conventional 2P imaging systems, restricting studies to head-fixed animals. Over the last two decades, considerable progress has been made in developing portable microscopes specifically tailored for freely-moving-animal functional imaging. This talk introduces our recent work in developing new generations of 2P miniscopes with resolution, field of view, speed, and z-scanning capability similar to that of 2P benchtop microscopes. I will highlight key applications from my group and our collaborators, showcasing how this technology contributes to studying the neuronal computation rulesets in cortical microcircuits. Additionally, I'll discuss the current limits and perspective for future developments.
+  photo: zong.webp
 
 - name: Aman Saleem
-  title:
-  abstract:
+  title: Flexible neural population dynamics for real-time sensory encoding in mouse visual cortex
+  abstract: Investigation of real-time sensation needs both the tools to stimulate realistic sensory stimuli and frameworks for understanding real-time dynamics of neural populations. In this talk I will cover two studies from the lab that cover these aspects. The first study focusses on time courses of neural responses that underlie real-time sensory processing and perception. How temporal dynamics change may be fundamental to how sensory systems adapt to different perceptual demands. By simultaneously recording from hundreds of neurons in mouse V1, we examined neural population responses to visual stimuli during different behavioural states at sub-second timescales. We discovered that population trajectory responses are dominated by tangled oscillatory dynamics during inactive behavioural states, but become dampened and untangled during active states, indicative of a more stable dynamical system. These changes were associated with faster stabilisation of stimulus-evoked neural correlations and a systematic shift in single neurons from transient to sustained response modes. Functionally, they enabled faster, more stable and more efficient encoding of new visual information. Our findings establish a novel principle of how sensory systems adapt to perceptual demands, where flexible neural population dynamics govern the speed and stability of sensory encoding. For real-time closed-loop sensory stimulation we developed BonVision, an open-source software package based on the Bonsai framework, with the ability to present both traditional visual stimuli and virtual (VR) and augmented reality (AR) environments. I will introduce this stimulus presentation framework and show recent updates on its application to closed-loop AR environments.
 
 - name: Petr Znamenskiy
-  title:
-  abstract:
-
+  title: Depth estimation from motion parallax in mouse primary visual cortex
+  abstract: Distinguishing near and far visual cues is a fundamental computation that animals perform to guide behavior using vision. When animals move, self-motion creates optic flow with its speed dependent on the depth of visual cues, enabling animals to estimate depth by comparing visual motion and self-motion speeds without relying on binocular vision. As neurons in the mouse primary visual cortex (V1) are broadly modulated by locomotion, we hypothesized that they may integrate vision- and locomotion-related signals to estimate depth from motion parallax. To test this hypothesis, we recorded neuronal activity in V1 using two-photon calcium imaging in mice navigating a virtual reality environment, where visual cues were presented at different virtual distances and motion parallax was the only cue for depth. We found that a large fraction of the excitatory neurons in layer 2/3 of V1 were selective for virtual depth. Neurons with different depth preferences were spatially intermingled, with nearby cells often tuned to disparate depths. Many neurons responded selectively to visual stimuli presented at a specific retinotopic location and virtual depth, demonstrating that during active locomotion V1 neuronal responses can be characterized by three-dimensional receptive fields. Moreover, depth tuning could not be fully accounted for by either running speed or optic flow speed tuning in isolation but arose from the integration of both signals. Specifically, depth selectivity of V1 neurons was explained by the ratio of preferred running and optic flow speeds. In addition, the closed-loop coupling of locomotion and optic flow feedback was required for accurate decoding of depth from V1 population activity. These results suggest that motion parallax creates a depth map of visual space in V1. We are currently combining recordings in head-fixed and freely moving animals to understand how depth selectivity in virtual reality relates to that in naturalistic conditions.
+  photo: znamenskiy.jpeg
+  
 - name: Guy Bouvier
-  title:
-  abstract:
+  title: Inter- and Intra-hemispheric Sources of Vestibular Signals to V1
+  abstract: Investigation of real-time sensation needs both the tools to stimulate realistic sensory stimuli and frameworks for understanding real-time dynamics of neural populations. In this talk I will cover two studies from the lab that cover these aspects. The first study focusses on time courses of neural responses that underlie real-time sensory processing and perception. How temporal dynamics change may be fundamental to how sensory systems adapt to different perceptual demands. By simultaneously recording from hundreds of neurons in mouse V1, we examined neural population responses to visual stimuli during different behavioural states at sub-second timescales. We discovered that population trajectory responses are dominated by tangled oscillatory dynamics during inactive behavioural states, but become dampened and untangled during active states, indicative of a more stable dynamical system. These changes were associated with faster stabilisation of stimulus-evoked neural correlations and a systematic shift in single neurons from transient to sustained response modes. Functionally, they enabled faster, more stable and more efficient encoding of new visual information. Our findings establish a novel principle of how sensory systems adapt to perceptual demands, where flexible neural population dynamics govern the speed and stability of sensory encoding. For real-time closed-loop sensory stimulation we developed BonVision, an open-source software package based on the Bonsai framework, with the ability to present both traditional visual stimuli and virtual (VR) and augmented reality (AR) environments. I will introduce this stimulus presentation framework and show recent updates on its application to closed-loop AR environments.
+  photo: bouvier.png
 
 - name: Kate Jeffery
-  title:
-  abstract:
+  title: Influence of top-down processing on the sense of direction
+  abstract: The sense of direction in mammals is supported by the head direction system, within which "head direction cells" fire at high rates when the animal's head faces in a particular direction (a different preferred firing direction for each cell). Head direction cells use a mix of environmental and self-motion cues to organise their firing directions. When environments are more complex and ambiguous, cells need to integrate information from previously stored memories, in order to uniquely determine facing direction. This talk will review recent experiments shedding light on these integration processes, and offer some speculations about the answers to outstanding questions.
+  photo: jeffery.jpg
 
 - name: Lisa Fenk
-  title:
-  abstract:
+  title: Gaze stability, active gaze changes and efference copy signals in Drosophila
+  abstract: Almost all animals move and when they do, they alter the stream of information to their sensors. We focus on two fundamental aspects of such active sensation. On the one hand, how do brains ignore changing sensory input that is not relevant for the task at hand. On the other hand, and perhaps more remarkably, how do brains actively move their sensors to create sensory patterns of activity that enhance their perception of the world. We are using the Drosophila visual system to study both of these aspects in a genetic model organism. During fast flight turns we observe motor-related inputs to Drosophila visual cells whose properties suggest that they would briefly abrogate the cells’ visual responses. Fly visual neurons are targeted by inputs that are precisely calibrated to abrogate each cell’s unique, expected visual response, suggesting that they function as 'efference copies'. In addition to suppressing the perception of self-generated visual motion during flight turns, flies also purposefully generate visual motion in other circumstances. We found that Drosophila perform active retinal movements, akin to vertebrate eye movements, ranging from fixational microsaccades to an optokinetic reflex. Spontaneous retinal movements could serve to refresh the image, help depth estimation, or increase acuity.
+  photo: fenk.jpg
 
 - name: Floris Van Breugel
-  title:
-  abstract:
+  title: Information gathering as a guiding principle for animal movement
+  abstract: Why do animals move the way they do? In this presentation I will present evidence in support of the hypothesis that flying insects actively change direction and ground speed to gather information about ambient wind. I will describe recent work in my lab that leverages optogenetics in freely flying fruit flies to remotely activate their sense of smell. Using this approach, we discovered that (a) flies use a novel search behavior in still air compared to laminar wind, and (b) in the presence of laminar wind flies turn into the wind with a rapid open loop turn. These observations suggest that flies can determine both the presence and direction of ambient wind. To understand how they may accomplish this we developed new nonlinear control-theoretic tools to assess the information that becomes available as a function of different movement motifs. Our theoretical tools suggest that flies must turn and change ground speed to estimate properties of ambient wind. Excitingly, we see evidence of both maneuvers in flying flies’ trajectories immediately after they encounter an odor. Together, our observations and theory support the idea that flies may use movement as a means of actively sensing properties of ambient wind.
 
 - name: Ronen Segev
-  title:
-  abstract:
+  title: The neural basis of navigation in goldfish
+  abstract: Fish and almost all animals need to navigate to survive. To investigate the neural basis of navigation, it is critical to find how information about space is encoded by the activity of single neurons when the animal explores the environment. We address this issue in goldfish, a representative species of the largest vertebrate class - teleost. We recorded the activity of single neurons in the central area of the goldfish telencephalon while it was freely navigating in a 3D water tank. Cells with firing patterns which gradually increase or decrease as the position of the animal moved along different axes of space were recorded. This type of axial code for space representation in the brains of fish is unique among the space encoding cells in vertebrates but has similarities with boundary vector cells fond in mammals. This work provides insights into spatial cognition in this lineage.
 
 - name: Pascal Malkemper
-  title:
-  abstract:
+  title: Towards the neural basis of the magnetic sense in subterranean mole-rats
+  abstract: The ability to sense the Earth’s magnetic field and use it for orientation and navigation is widespread in the animal kingdom. The neuronal mechanisms of this sensory ability are, however, still poorly understood. African mole-rats are subterranean mammals suggested to use magnetic cues for orientation in their dark tunnels. We ask which brain regions are involved in the magnetic sense and how magnetic cues are neuronally encoded in this mammalian model. First, we looked for a robust behavioural assay to demonstrate the perception of magnetic fields. I will present the results of two approaches, the novel magnetic object and maze navigation. To maximize the level of experimental control, we used closed loops between live animal tracking and a magnetic coil system to create a “virtual magnetic environment”. Next, we hypothesized that mole-rat brains contain spatial neurons but that, in contrast to epigeic rodents, inputs from the somatosensory and perhaps the magnetosensory system predominate over visual cues. We tested our hypothesis by performing single-unit recordings in the hippocampus of freely moving mole-rats exploring different environments under controlled magnetic conditions.
 
 - name: Thierry Emonet
-  title:
-  abstract:
+  title: Odor motion and gradient sensing during olfactory navigation
+  abstract: For many animals, survival depends on the ability to navigate odor plumes to their sources. This task is complicated by turbulent air motions, which break continuous odor streams emanating from sources into disconnected odor patches swept by the wind. I will report on our recent efforts to investigate of how walking flies use their ability to detect the motion and gradient of odors independently from the wind direction to navigate odor plumes.
 
-- name: Jennifer Li
-  title:
-  abstract:
-
-- name: Drew Robson
-  title:
-  abstract:
+- name: Drew Robson & Jennifer Li
+  title: "Spatial Cognitive Maps in a Tiny Brain: Uncovering Place Cells in the Larval Zebrafish"
+  abstract: Abstract thought, reasoning, and generalized intelligence are based on the ability to form an internal cognitive representation of the external world. Previous studies have shown that mammals can form such representations using computational units like place cells and grid cells. However, the evolutionary origin of these cognitive abilities is still unknown. We investigate this question using larval zebrafish, which diverged from mammals over 400 million years and possess the smallest nervous system among all vertebrate model organisms. Using a state-of-the-art tracking microscope, we find evidence that zebrafish can generate a spatial cognitive map through a population of place cells. This discovery suggests that spatial cognition emerged in a minimal neural circuit of only ~10,000 neurons over 400 million years ago, an initial condition for the subsequent elaboration and expansion of cognitive capabilities in mammals. We will highlight a collaborative effort to create an integrative model of spatial cognition, combining brain-wide cellular resolution neural imaging in freely moving zebrafish, synapse-scale connectomics, and molecular fingerprinting, as well as discuss potential strategies for building efficient recurrent neural networks for cognition.
+  photo: robson_li.jpg
 
 - name: Alexandr Klioutchnikov
-  title:
-  abstract:
+  title: A Miniature Multiphoton Microscope for Simultaneously Imaging Multiple Cortical Layers in Freely Moving Mice
+  abstract: Miniature head-mounted three-photon microscopes have enabled imaging deep cortical neuronal populations in freely-moving mice. While previous published miniature microscopes were mounted in a fixed position giving access to a single population of neurons,  recent opto-mechanical Z-Drive designs and electrically tunable lenses have been introduced and allow adjustment of imaging planes over cortical depths. As cortical layers are functionally heterogeneous structures featuring different connectivity patterns, one limitation of these approaches is the restriction of imaging within one cortical layer or within a small volume. A simultaneous imaging of multiple cortical layers would help to investigate the role of the cortex in processing sensory stimuli, especially in the freely moving animal. Here, I will introduce our new approach that allows imaging simultaneously from multiple cortical layers in freely moving mice.
+  photo: klioutchnikov.png
 
 - name: Valentina Emiliani
-  title:
-  abstract:
+  title: A flexible two-photon fiberscope for all-optical circuits manipulation in freely moving mice
+  abstract: A key question in neuroscience is to unraveling the intricate connections between neuronal activity and behavior. This complicated task necessitates robust methodologies for observing and manipulating brain circuits in vivo with cellular precision. As a solution to this challenge, we have proposed to sculpting the illumination light with computer generated holography, temporal focusing and two-photon (2P) excitation and have shown that this combination of approaches enables to selectively activate specific neuronal ensembles with single cell resolution and sub millisecond temporal precision in vitro and in vivo head restraint mice. The next essential step is to extend such technologies to the study of brain circuits in animals that can freely perform behavioral tasks engaging the circuits of interest. Here, we will present a flexible two-photon micro-endoscope (2P-FENDO) that we recently developed (Accanto et al. Neuron 2023) capable of all-optical brain investigation at near cellular resolution in freely moving mice. The system performs fast 2P functional imaging and 2P holographic photostimulation of single and multiple cells using axially confined extended spots. Specifically, we demonstrated that the inter-core delay dispersion (ICDD) of the fiber bundle efficiently decouples the 2P excitation from different cores, thereby maintaining axially confined (<8 mum) excitations almost independently of the lateral spot size. To demonstrate the feasibility of our approach, proof-of-principle experiments were performed in freely moving mice co-expressing jGCaMP7s and the opsin ChRmine in the visual or barrel cortex. We demonstrated functional imaging at a frame rate of up to 50 Hz and precise photostimulation of selected groups of cells. With the capability to simultaneously image and control defined neuronal networks in freely moving animals, 2PFENDO will enable a precise investigation of neuronal functions in the brain during naturalistic behaviors.
 
 - name: Damian Wallace
-  title:
-  abstract:
+  title: Eye saccades align optic flow with intended heading during object pursuit in freely moving ferrets
+  abstract: The pattern of object motion in the visual field, called optic flow, is used by many animals as a source of information for navigation. The eyes of many species are also equipped with retinal specializations with elevated photoreceptors and/or ganglion cell density, which are directed at visual targets to provide a high resolution view. This raises a quandary for the visual system, particularly for predatory animals chasing after a prey target, because the eye movements required for fixation of the target are different to those required for obtaining navigational information. It is currently not known how the visual system deals with this conflict. Here, we measured eye movements in freely running ferrets chasing a fleeing target. Coordinated eye saccades and head rotations were observed as the animal made curved trajectories but were not seen during straight trajectories. Saccades had a fast phase in the same direction as the head turn followed by a slow phase in the opposite direction. These eye and head movements were not primarily fixating the target. Rather the fast phase shifted the ferret’s retinal specialization to point into the intended direction of travel. The slow phase compensated the rotation of the head to recover translation-like optic flow. We suggest that saccades, rather than fixating the target, instead recover optic flow patterns useful for navigation.
+  photo: wallace.png
 
 - name: Tobias Rose
-  title:
-  abstract:
+  title: Stability of visual processing in passive and active vision
+  abstract: The visual system faces a dual challenge. On one hand, invariant global statistical features of the natural visual environment should be stably processed - irrespective of ongoing wiring changes, representational drift, and behavior. On the other hand, eye, head, and body motion constantly change the retinal image propagated across the visual cortical hierarchy, requiring a robust integration of pose and gaze shifts in visual computations for a stable perception of the world. We address these dimensions of stable visual processing on two different levels. In passive vision, we study the circuit mechanism of long-term representational stability, focusing on the role of plasticity, network structure, experience, and behavioral state. In active vision, we address the influence of appetitive orienting behavior on visual processing. Specifically, we study how the anticipation of future visual input during such movements affects visual receptive field properties during appetitive orienting behavior in the mouse. For this, we develop ethologically inspired closed-loop visual tasks allowing high-throughput assessment of unrestrained mouse behavior with fine-grained, motion-contingent control of visual stimulation parameters. We combine this with dense multi-perspective behavioral tracking while recording large-scale neuronal activity in the visual thalamus, primary visual cortex, and posterior parietal cortex with miniature two-photon microscopy.
+  photo: rose.jpg
 
 - name: Katherine Nagel
-  title:
-  abstract:
+  title: Neural circuits for working memory and evidence integration during olfactory navigation
+  abstract: During plume navigation, insects use stochastic sensory cues to navigate towards the unknown location of an odor source.  Here, we developed a virtual olfactory navigation paradigm to investigate neural dynamics during this behavior using 2-photon imaging.  We find that one population of local neurons in the dorsal fan-shaped body shows persistent bump activity in response to odor. By simulating a turbulent odor plume in closed-loop, we show that this bump ramps up slowly in response to successive odor encounters and can persist for several seconds following odor offset.  Persistent activity is associated with maintaining the trajectory adopted during odor, suggesting that these neurons represent a directional working memory.  To investigate the circuit mechanisms underlying this activity we use both connectomics and whole-cell electrophysiology.  These approaches indicate that these neurons receive slow metabotropic excitation from recurrently connected neurons, and global inhibition that undergoes synaptic depression.  A dynamical model based on these data shows that a recurrent circuit with slow excitation and depressing inhibition can generate a working memory whose duration depends on the statistics of the odor input.  Together, our data reveal a dynamic internal representation that supports navigation through complex stochastic sensory environments.
 
 - name: Florencia Iacaruso
-  title:
-  abstract:
+  title: Flexible approach strategies support interceptive pursuit behaviour in mice
+  abstract: Intercepting a moving target requires a tight coupling between sensory perception and motor action. The most efficient strategy necessitates estimating the future position of the target and reacting rapidly to sudden changes in the target's trajectory. Mice can hunt moving prey and have been established as a successful model to study visually guided pursuit and prey capture behaviours. The superior colliculus (SC), a primary retinorecipient brain region attributed with rapid sensorimotor processing, has been implicated in these behaviours. However, the ability of mice to adapt their pursuit strategy based on the direction of travel and speed of their target, as well as the underlying neuronal circuit mechanisms, have not yet been determined. To investigate this, we developed a closed-loop virtual prey capture paradigm. In each session, mice perform hundreds of trials and their interception success depends on the speed and contrast of the target. Furthermore, mice can anticipate the future location of moving visual targets, adjust their pursuit strategy to the demands of the task and react to sudden manoeuvres by the target. We will discuss the role of the SC in predictive interceptive pursuit.
 
 - name: Alipasha Vaziri
-  title:
-  abstract:
+  title: Towards cortex-wide volumetric recording of neuroactivity at cellular resolution
+  abstract: "Understanding how sensory information is represented, processed and leads to generation
+of complex behavior is the major goal of systems neuroscience. However, the ability to
+detect and manipulate such large-scale functional circuits has been hampered by the lack of
+appropriate tools and methods that allow parallel and spatiotemporally specific
+manipulation of neuronal population activity while capturing the dynamic activity of the
+entire network at high spatial and temporal resolutions.
+
+A central focus of our lab is the development and application of new optics-based
+neurotechnologies for large-scale, high-speed, and single-cell resolution interrogation of
+neuroactivity across model systems. Through these, we have consistently pushed the limits
+on speed, volume size, and depth at which neuronal population activity can be optically
+recorded at cellular resolution. Amongst others have demonstrated whole-brain recording
+of neuroactivity at cellular resolution in small model systems as well as more recently near simultaneous recording from over 1 million neurons distributed across both hemispheres
+and different layers of the mouse cortex at cellular resolution.
+
+I will present on our efforts on neurotechnology development and how the application of
+some of these optical neurotechnologies could enable solving a qualitatively new range of
+neurobiological questions that are beyond reach of current methods. Ultimately, our aim is
+to uncover some of the computational principles underlying representation of sensory
+information at different levels, its processing across the mammalian brain, and how its
+interaction with internal states generates behavior. "
+  photo: vaziri.jpg
 
 - name: Vanessa Stempel
-  title:
-  abstract:
+  title: Midbrain circuits for flexible instinctive behaviours
+  abstract: Instinctive behaviours, such as hunting, pup care and defence have evolved across animal phyla and ensure the survival of both the individual and species. In vertebrates, instinctive behaviours are generated by remarkably conserved brain circuits and it has become increasingly clear in recent years that instinctive behaviours are flexible in regard to both action selection and execution. Despite a large body of behavioural work, the neural mechanisms underlying the flexible implementation of instinctive behaviours remain largely unknown. In this talk, I will discuss how excitatory and inhibitory neural circuits in the rodent midbrain shape the initiation and execution of instinctive behaviours.
 
 - name: Alison Barker
-  title:
-  abstract:
+  title: "Linking Communication and Cooperation: Lessons from the Naked Mole-Rat"
+  abstract: Highly organized social groups require well-structured and dynamic communication systems. Naked mole-rats form some of the most rigidly structured social groups in the Animal Kingdom, exhibiting  eusociality, a type of highly cooperative social living characterized by a  reproductive division of labor with a single breeding female, queen. Recent work from our group identified a critical role for vocal communication in the organization and maintenance of naked mole-rat social groups. Using machine learning techniques we demonstrated that one vocalization type, the soft chirp, encodes information about individual identity and colony membership. Colony specific vocal dialects can be learned early in life- pups that were cross-fostered acquired the dialect of their adoptive colonies. We also demonstrate that vocal dialects are influenced in part by the presence of the queen. Here, I summarize these findings and highlight our current work investigating how social and vocal complexity evolved in parallel in closely related species throughout the Bathyergidae family of African mole-rats.
+  photo: barker.webp
 
 - name: Soohyun Lee
-  title:
-  abstract:
+  title: Brainwide synaptic network of behavior-state dependent cortical neurons
+  abstract: Neuronal connections provide the scaffolding for neuronal function. Revealing the connectivity of functionally identified individual neurons is necessary to understand how activity patterns emerge and support behavior. Yet, the brain-wide presynaptic wiring rules that lay the foundation for the functional selectivity of individual neurons remain largely unexplored. Cortical neurons, even in primary sensory cortex, are heterogeneous in their selectivity, not only to sensory stimuli but also to multiple aspects of behavior. Here, to investigate presynaptic connectivity rules underlying the selectivity of pyramidal neurons to behavioral state in primary somatosensory cortex (S1), we used two-photon calcium imaging, neuropharmacology, single-cell based monosynaptic input tracing, and optogenetics. We show that behavioral state-dependent neuronal activity patterns are stable over time. These are not determined by neuromodulatory inputs but are instead driven by glutamatergic inputs. Analysis of brain-wide presynaptic networks of individual neurons with distinct behavioral state-dependent activity profiles revealed characteristic patterns of anatomical input. Our study reveals characteristic long-range glutamatergic inputs as a substrate for preconfigured network dynamics associated with behavioral state.
 
 - name: Jason Kerr
-  title:
-  abstract:
+
+- name: Susanne Hoffmann
+  title: Auditory processing of song syllables differs between sexes in a wild songbird during a vocal cooperative behavior – duet singing
+  abstract: "Many organisms coordinate rhythmic motor actions with those of a partner to generate cooperative social behavior, such as duet singing. While it has recently been shown that motor activity is synchronized between the brains of vocally cooperating individuals, the sensory mechanisms of such behavior remain unknown. What kind of acoustic information are duetting individuals listening to in order to produce a well-coordinated duet song, their own vocalizations, those of the partner, or both? To tackle this question, we telemetrically recorded extracellular, multiunit activity in the primary and the secondary auditory cortex of wild, male and female White-browed sparrow weavers (Plocepasser mahali) while the birds produced duet songs in their natural habitat. In parallel to the neural activity, we recorded the individual vocal activity of both duet partners with wireless microphones attached to each bird. We found a remarkable difference in auditory processing between males and females during singing: While auditory units in male birds only responded to the male’s own vocal emissions, auditory activity in female birds correlated with both, own song syllables and syllables produced by the male partner. This difference in auditory processing may represent the basis for the formation of leader-follower roles in vocal cooperative behavior."
+  photo: hoffmann.jpg
+
+- name: Oleg Tolstenkov
+  title: "Swimming Ciona larvae sensing water flow in a multi-animal environment: rheotaxis versus group behavior."
+  abstract: Protochordates often regarded as the simplest structured chordates, providing insights into our common ancestor. Ciona larvae are typically released in large numbers during the spawning of sessile adults, which often form groups and contribute to fouling problems. Notably, previous studies on Ciona larvae behavior have been limited to observations of individuals in a limited space of arenas. In this study, we explore the behavior of Ciona larvae in conditions that closely mimic their natural sea environment, where water currents are a prevalent factor. Employing deep learning-based pose estimation behavior analysis, microfluidics, and calcium imaging, we reveal the presence of positive rheotaxis in Ciona larvae. We demonstrate that the behavior of Ciona larvae varies depending on group density. Additionally, we propose a hypothesis regarding the neural circuitry and potential mechanisms underlying group interactions in these animals, which possess a highly streamlined nervous and sensory system. This study provides insights into the sensory processing of freely moving simple chordates in a multi-animal context.
+  photo: tolstenkov.jpg

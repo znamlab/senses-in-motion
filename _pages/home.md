@@ -52,16 +52,16 @@ Senses in Motion: Sensory Processing in Freely Moving Animals
 {% assign sorted = site.data.speakers | sort: 'name'  %}
 {% for speaker in sorted %}
 {% unless speaker.break %}
-<strong style="white-space: nowrap">{{ speaker.name }}</strong> &nbsp; &nbsp; <!-- <a href="{{ site.url }}{{ site.baseurl }}/speakers#{{ speaker.name }}" class="h6" style="white-space: nowrap">-->
+<a href="{{ site.url }}{{ site.baseurl }}/speakers#{{ speaker.name }}" class="h6" style="white-space: nowrap">{{ speaker.name }}</a> &nbsp; &nbsp; 
 {% endunless %}
 {% endfor %}
 </p>
 <h2>Organisers</h2>
-<p class="text-center"><strong>
+<p class="text-center">
 <a href="https://www.keshavarzilab.com/">Sepiedeh Keshavarzi</a> &nbsp;
 <a href="https://znamlab.org">Petr Znamenskiy</a> &nbsp;
 <a href="https://mpinb.mpg.de/en/research-groups/groups/behavior-and-brain-organization/group-leader.html">Jason Kerr</a><br/>
-</strong></p>
+</p>
 <h2>Registration</h2>
 <p class="text-center">
 <ul>
@@ -71,7 +71,7 @@ Senses in Motion: Sensory Processing in Freely Moving Animals
 </ul>
 </p>
 <div class="text-center">
-<a class="btn btn-primary btn-lg" href="https://forms.office.com/Pages/ResponsePage.aspx?id=B3jtTq3rWkGnqZFwlH9OrmSctWFOwqZKiZfI7uo_udpUNjBGMlRPNDZNMTAwSzdZT05NSzY5S0UwNy4u" role="button">Submit an abstract</a>
+<a class="btn btn-primary btn-lg" role="button">Abstract submission is now closed</a>
 </div>
 <br/>
 </div>
