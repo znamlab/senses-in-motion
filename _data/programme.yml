@@ -4,7 +4,12 @@
 - name: Welcome coffee
   time: 16:30 - 17:00
 
-- name: Session 1
+- name: "<b>Session 1</b><br/>
+Floris Van Breugel<br/>
+Iain Couzin<br/>
+Katherine Nagel<br/>
+Oleg Tolstenkov<br/>
+Thierry Emonet"
   time: 17:00 - 19:00
 
 - name: Dinner
@@ -13,29 +18,45 @@
 - name: Tuesday, March 12
   highlight: true
 
-- name: Session 2
+- name: "<b>Session 2</b><br/>
+Tobias Rose<br/>
+Guy Bouvier<br/>
+Pascal Malkemper<br/>
+Soohyun Lee"
   time: 09:30 - 11:00
 
 - name: Coffee break
   time: 11:00 - 11:30
 
-- name: Session 3
+- name: "<b>Session 3</b><br/>
+Damian Wallace<br/>
+Lisa Fenk<br/>
+Rasmus Petersen<br/>
+Jonathan Whitlock"
   time: 11:30 - 13:00
 
 - name: Lunch
   time: 13:00 - 14:00
 
-- name: Session 4
+- name: "<b>Session 4</b><br/>
+Florencia Iacaruso<br/>
+Petr Znamenskiy<br/>
+Jennifer Bizley<br/>
+Aman Saleem"
   time: 14:00 - 15:30
 
 - name: Coffee break
   time: 15:30 - 16:00
 
-- name: Session 5
-  time: 16:00 - 17:00
+- name: "<b>Session 5</b><br/>
+Alexandr Klioutchnikov<br/>
+Alipasha Vaziri<br/>
+Valentina Emiliani<br/>
+Weijian Zong"
+  time: 16:00 - 17:30
 
 - name: Poster session
-  time: 17:00 - 19:00
+  time: 17:30 - 19:00
 
 - name: Dinner
   time: "19:00"
@@ -43,13 +64,21 @@
 - name: Wednesday, March 13
   highlight: true
 
-- name: Session 6
+- name: "<b>Session 6</b><br/>
+Cynthia Moss<br/>
+Drew Robson & Jennifer Li<br/>
+Kate Jeffery<br/>
+Ronen Segev"
   time: 09:30 - 11:00
 
 - name: Coffee break
   time: 11:00 - 11:30
 
-- name: Session 7
+- name: "<b>Session 7</b><br/>
+Alison Barker<br/>
+Sandeep Robert Datta<br/>
+Susanne Hoffmann<br/>
+Vanessa Stempel"
   time: 11:30 - 13:00
 
 - name: Lunch
