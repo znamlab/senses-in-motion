@@ -14,13 +14,13 @@
   highlight: true
 
 - name: Session 2
-  time: 09:00 - 10:30
+  time: 09:30 - 11:00
 
 - name: Coffee break
-  time: 10:30 - 11:00
+  time: 11:00 - 11:30
 
 - name: Session 3
-  time: 11:00 - 13:00
+  time: 11:30 - 13:00
 
 - name: Lunch
   time: 13:00 - 14:00
@@ -32,10 +32,10 @@
   time: 15:30 - 16:00
 
 - name: Session 5
-  time: 16:00 - 17:30
+  time: 16:00 - 17:00
 
 - name: Poster session
-  time: 17:30 - 19:00
+  time: 17:00 - 19:00
 
 - name: Dinner
   time: "19:00"
@@ -44,13 +44,13 @@
   highlight: true
 
 - name: Session 6
-  time: 09:00 - 10:30
+  time: 09:30 - 11:00
 
 - name: Coffee break
-  time: 10:30 - 11:00
+  time: 11:00 - 11:30
 
 - name: Session 7
-  time: 11:00 - 13:00
+  time: 11:30 - 13:00
 
 - name: Lunch
   time: 13:00 - 14:00
