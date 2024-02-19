@@ -7,9 +7,9 @@
 - name: "<b>Session 1</b><br/>
 Iain Couzin<br/>
 Floris Van Breugel<br/>
-Katherine Nagel<br/>
 Oleg Tolstenkov<br/>
-Thierry Emonet"
+Thierry Emonet<br/>
+Katherine Nagel"
   time: 17:00 - 19:00
 
 - name: Dinner
@@ -49,10 +49,10 @@ Aman Saleem"
   time: 15:30 - 16:00
 
 - name: "<b>Session 5</b><br/>
-Alexandr Klioutchnikov<br/>
 Alipasha Vaziri<br/>
-Valentina Emiliani<br/>
-Weijian Zong"
+Weijian Zong<br/>
+Alexandr Klioutchnikov<br/>
+Valentina Emiliani"
   time: 16:00 - 17:30
 
 - name: Poster session
@@ -65,20 +65,22 @@ Weijian Zong"
   highlight: true
 
 - name: "<b>Session 6</b><br/>
-Cynthia Moss<br/>
-Drew Robson & Jennifer Li<br/>
 Kate Jeffery<br/>
-Ronen Segev"
+Drew Robson & Jennifer Li<br/>
+Ronen Segev<br/>
+Cynthia Moss
+"
   time: 09:30 - 11:00
 
 - name: Coffee break
   time: 11:00 - 11:30
 
 - name: "<b>Session 7</b><br/>
-Alison Barker<br/>
 Sandeep Robert Datta<br/>
-Susanne Hoffmann<br/>
-Vanessa Stempel"
+Alison Barker<br/>
+Vanessa Stempel<br/>
+Susanne Hoffmann
+"
   time: 11:30 - 13:00
 
 - name: Lunch

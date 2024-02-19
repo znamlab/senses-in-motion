@@ -14,7 +14,6 @@ permalink: /speakers
   {% unless speaker.break %}
   {% if speaker.title %}
   <div class="col-sm-12" id="{{ speaker.name }}">
-  <p></p>
   <h2>
   {{ speaker.name }}: {{ speaker.title }}
   </h2>
