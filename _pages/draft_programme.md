@@ -15,6 +15,7 @@ permalink: /draft-programme
   <thead class="thead-dark">
     <tr>
       <th scope="col" style="width: 130px">Time</th>
+      <th scope="col" style="width: 130px">Location</th>
       <th scope="col">Session</th>
     </tr>
 
@@ -27,6 +28,7 @@ permalink: /draft-programme
     <tr>
     {% endif %}
       <th scope="row">{{ session.time }}</th>
+      <td>{{ session.location }}</td>
       <td>{{ session.name }}</td>
     </tr>
     {% endfor %}
