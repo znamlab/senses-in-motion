@@ -3,14 +3,13 @@
 
 - name: Arrival and check-in
   time: "From 15:00" 
-  location: Meitner Hall II
+  location: Reception
 
 - name: Welcome coffee
   time: 16:30 - 17:00
   location: Meitner Hall II
 
 - name: "<b>Session 1</b><br/>
-Iain Couzin<br/>
 Floris Van Breugel<br/>
 Oleg Tolstenkov<br/>
 Thierry Emonet<br/>
