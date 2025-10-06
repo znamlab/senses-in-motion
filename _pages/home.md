@@ -52,7 +52,7 @@ Senses in Motion: Sensory Processing in Freely Moving Animals
 {% assign sorted = site.data.speakers | sort: 'name'  %}
 {% for speaker in sorted %}
 {% unless speaker.break %}
-<a href="{{ site.url }}{{ site.baseurl }}/speakers#{{ speaker.name }}" class="h6" style="white-space: nowrap">{{ speaker.name }}</a> &nbsp; &nbsp; 
+{{ speaker.name }} &nbsp; &nbsp; 
 {% endunless %}
 {% endfor %}
 </p>
@@ -71,7 +71,7 @@ Senses in Motion: Sensory Processing in Freely Moving Animals
 </ul>
 </p>
 <div class="text-center">
-<a class="btn btn-primary btn-lg" role="button">Abstract submission is now closed</a>
+<a class="btn btn-primary btn-lg" role="button">Abstract submission will open in November 2025</a>
 </div>
 <br/>
 </div>
