@@ -52,7 +52,7 @@ Senses in Motion: Sensory Processing in Freely Moving Animals
 {% assign sorted = site.data.speakers | sort: 'name'  %}
 {% for speaker in sorted %}
 {% unless speaker.break %}
-{{ speaker.name }} &nbsp; &nbsp; 
+<span class="h6" style="white-space: nowrap">{{ speaker.name }}</span> &nbsp; &nbsp; 
 {% endunless %}
 {% endfor %}
 </p>
