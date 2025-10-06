@@ -1,110 +1,124 @@
-- name: Monday, March 11
+- name: Monday, May 18th
   highlight: true
 
 - name: Arrival and check-in
-  time: "From 15:00" 
+  time: "from 15:00"
   location: Reception
 
-- name: Welcome coffee
-  time: 16:30 - 17:00
+- name: Welcome coffee and registration
+  time: "16:30 - 17:00"
   location: Meitner Hall II
 
-- name: "<b>Session 1</b><br/>
-Floris Van Breugel<br/>
-Oleg Tolstenkov<br/>
-Thierry Emonet<br/>
-Jason Kerr<br/>
-Katherine Nagel"
-  time: 17:00 - 19:00
+- name: Session 1
+  time: "17:00 – 18:30"
+  location: ""
+
+- name: Dinner
+  time: "19:00"
+  location: ""
+
+- name: Tuesday, May 19th
+  highlight: true
+
+- name: Session 2
+  time: "09:30 - 11:00"
   location: Meitner Hall I
+
+- name: Coffee break
+  time: "11:00 - 11:30"
+  location: Meitner Hall II
+
+- name: Session 3
+  time: "11:30 - 13:00"
+  location: Meitner Hall I
+
+- name: Lunch
+  time: "13:00 - 14:00"
+  location: Restaurant
+
+- name: Session 4
+  time: "14:00 - 15:30"
+  location: Meitner Hall I
+
+- name: Coffee break
+  time: "15:30 - 16:00"
+  location: Meitner Hall II
+
+- name: Session 5
+  time: "16:00 - 17:30"
+  location: Meitner Hall I
+
+- name: Poster session
+  time: "17:30 - 19:00"
+  location: ""
 
 - name: Dinner
   time: "19:00"
   location: Restaurant
 
-- name: Tuesday, March 12
+- name: Wednesday, May 20th
   highlight: true
 
-- name: "<b>Session 2</b><br/>
-Sandeep Robert Datta<br/>
-Guy Bouvier<br/>
-Soohyun Lee<br/>
-Tobias Rose"
-  time: 09:30 - 11:00
+- name: Session 6
+  time: "09:30 - 11:00"
   location: Meitner Hall I
 
 - name: Coffee break
-  time: 11:00 - 11:30
+  time: "11:00 - 11:30"
   location: Meitner Hall II
 
-- name: "<b>Session 3</b><br/>
-Damian Wallace<br/>
-Lisa Fenk<br/>
-Rasmus Petersen<br/>
-Jonathan Whitlock"
-  time: 11:30 - 13:00
+- name: Session 7
+  time: "11:30 - 13:00"
   location: Meitner Hall I
 
 - name: Lunch
-  time: 13:00 - 14:00
-  location: Restaurant  
+  time: "13:00 - 14:00"
+  location: Restaurant
 
-- name: "<b>Session 4</b><br/>
-Florencia Iacaruso<br/>
-Petr Znamenskiy<br/>
-Jennifer Bizley<br/>
-Aman Saleem"
-  time: 14:00 - 15:30
+- name: Session 8
+  time: "14:00 - 15:30"
   location: Meitner Hall I
 
 - name: Coffee break
-  time: 15:30 - 16:00
+  time: "15:30 - 16:00"
   location: Meitner Hall II
 
-- name: "<b>Session 5</b><br/>
-Alipasha Vaziri<br/>
-Weijian Zong<br/>
-Alexandr Klioutchnikov<br/>
-Valentina Emiliani"
-  time: 16:00 - 17:30
-  location: Meitner Hall I
+- name: Tour of Harnack House
+  time: "16:00 - 17:30"
+  location: ""
 
 - name: Poster session
-  time: 17:30 - 19:00
-  location: Meitner Hall II
+  time: "17:30 - 19:00"
+  location: ""
 
 - name: Dinner
   time: "19:00"
-  location: Restaurant  
+  location: Restaurant
 
-- name: Wednesday, March 13
+
+- name: Thursday, May 21st
   highlight: true
 
-- name: "<b>Session 6</b><br/>
-Kate Jeffery<br/>
-Drew Robson & Jennifer Li<br/>
-Ronen Segev<br/>
-Cynthia Moss
-"
-  time: 09:30 - 11:00
+- name: Session 9
+  time: "09:30 - 11:00"
   location: Meitner Hall I
 
+- name: Guesthouse check-out
+  time: "11:00"
+  location: ""
+
 - name: Coffee break
-  time: 11:00 - 11:30
+  time: "11:00 - 11:30"
   location: Meitner Hall II
 
-- name: "<b>Session 7</b><br/>
-Alison Barker<br/>
-Pascal Malkemper<br/>
-Vanessa Stempel<br/>
-Susanne Hoffmann
-"
-  time: 11:30 - 13:00
+- name: Session 10
+  time: "11:30 - 13:00"
   location: Meitner Hall I
 
 - name: Lunch
-  time: 13:00 - 14:00
-  location: Restaurant  
+  time: "13:00 - 14:00"
+  location: Restaurant
 
 - name: Departure
   time: "14:00"
+  location: ""

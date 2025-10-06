@@ -5,7 +5,9 @@ excerpt: "Symposium programme"
 sitemap: false
 permalink: /programme
 ---
-# Symposium programme
+
+# Draft programme
+
 <div class="row">
 <div class="col-sm-12">
 <p></p>

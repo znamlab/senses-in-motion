@@ -15,10 +15,10 @@ permalink: /
   ">
 <div class="titlebox">
 <div class="bigtitle">
-Senses in Motion 2024<br>
+Senses in Motion 2026<br>
 Sensory Processing in Freely Moving Animals
 </div>
-11-13 MARCH 2024, HARNACK HOUSE, BERLIN
+18-21 May 2026, HARNACK HOUSE, BERLIN
 </div>
 </div>
 </div>
@@ -28,7 +28,7 @@ Sensory Processing in Freely Moving Animals
 <div class="bigtitle">
 Senses in Motion: Sensory Processing in Freely Moving Animals
 </div>
-11-13 MARCH 2024, HARNACK HOUSE, BERLIN
+18-21 May 2026, HARNACK HOUSE, BERLIN
 </div>
 <img src="{{ site.url }}{{ site.baseurl }}/images/flying-bat-Mosslab-cropped.gif">
 </div>
@@ -65,8 +65,8 @@ Senses in Motion: Sensory Processing in Freely Moving Animals
 <h2>Registration</h2>
 <p class="text-center">
 <ul>
-<li>To foster scientific discussion, all meeting participants will present a talk or poster. To participate, please apply by January 16, 2024, 17:00 GMT including a title and short abstract of your presentation.</li>
-<li>As the number of participants is limited to 50, selected participants will be notified by January 26, 2024.</li>
+<li>To foster scientific discussion, all meeting participants will present a talk or poster. Registration and abstract submission will open in November 2025.</li>
+<li>As the number of participants is limited to 50, selected participants will be in January 2026.</li>
 <li>On site accomodation at Harnack House and meals for selected applicants will be provided.</li>
 </ul>
 </p>
@@ -79,7 +79,7 @@ Senses in Motion: Sensory Processing in Freely Moving Animals
 <div class="col-sm-12">
 <h2>Venue</h2>
 
-<p>The meeting will take place at <a href="https://www.harnackhaus-berlin.mpg.de/en">Harnack House</a> in Berlin 11-13 March, 2024. Please see the Harnack House website for <a href="https://www.harnackhaus-berlin.mpg.de/contact/directions">directions</a>.</p>
+<p>The meeting will take place at <a href="https://www.harnackhaus-berlin.mpg.de/en">Harnack House</a> in Berlin 18-21 May, 2026. Please see the Harnack House website for <a href="https://www.harnackhaus-berlin.mpg.de/contact/directions">directions</a>.</p>
 
 </div>
 
