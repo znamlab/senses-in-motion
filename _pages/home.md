@@ -68,10 +68,11 @@ Senses in Motion: Sensory Processing in Freely Moving Animals
 <li>To foster scientific discussion, all meeting participants will present a talk or poster. Registration and abstract submission will open in November 2025.</li>
 <li>As the number of participants is limited to 50, selected participants will be notified in January 2026.</li>
 <li>On site accomodation at Harnack House and meals for selected applicants will be provided.</li>
+<li>Abstract submission deadline <b style="color:red;">19 December 2025, 5pm GMT</b>.</li>
 </ul>
 </p>
 <div class="text-center">
-<a class="btn btn-primary btn-lg" role="button" href="https://forms.office.com/e/JQzTt4W7Qj">Submit an abstract by 19 December 2025</a>
+<a class="btn btn-primary btn-lg" role="button" href="https://forms.office.com/e/JQzTt4W7Qj">Submit an abstract</a>
 </div>
 <br/>
 </div>
