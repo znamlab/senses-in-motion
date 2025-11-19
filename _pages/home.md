@@ -71,7 +71,7 @@ Senses in Motion: Sensory Processing in Freely Moving Animals
 </ul>
 </p>
 <div class="text-center">
-<a class="btn btn-primary btn-lg" role="button">Abstract submission will open in November 2025</a>
+<a class="btn btn-primary btn-lg" role="button" href="https://forms.office.com/e/JQzTt4W7Qj">Submit an abstract by 19 December 2025</a>
 </div>
 <br/>
 </div>
