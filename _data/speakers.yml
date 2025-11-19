@@ -8,7 +8,17 @@
   abstract: ""
   photo: ""
 
+- name: Alison Barker
+  title: ""
+  abstract: ""
+  photo: ""
+
 - name: Riccardo Beltramo
+  title: ""
+  abstract: ""
+  photo: ""
+
+- name: Katie Bentley
   title: ""
   abstract: ""
   photo: ""
@@ -28,7 +38,22 @@
   abstract: ""
   photo: ""
 
+- name: Kevin Briggman
+  title: ""
+  abstract: ""
+  photo: ""
+
 - name: Itai Cohen
+  title: ""
+  abstract: ""
+  photo: ""
+
+- name: Emily Dennis
+  title: ""
+  abstract: ""
+  photo: ""
+
+- name: Coen Elemans
   title: ""
   abstract: ""
   photo: ""
@@ -48,7 +73,17 @@
   abstract: ""
   photo: ""
 
+- name: Jesse Goldberg
+  title: ""
+  abstract: ""
+  photo: ""
+
 - name: Alexander Groh
+  title: ""
+  abstract: ""
+  photo: ""
+
+- name: Richard Hahnloser
   title: ""
   abstract: ""
   photo: ""
@@ -58,10 +93,15 @@
   abstract: ""
   photo: ""
 
+- name: Benjamin Judkewitz
+  title: ""
+  abstract: ""
+  photo: ""
+
 - name: Jason Kerr
   title: ""
   abstract: ""
-  photo: kerr.jpg
+  photo: ""
 
 - name: Sepiedeh Keshavarzi
   title: ""
@@ -83,10 +123,20 @@
   abstract: ""
   photo: ""
 
+- name: Pascal Malkemper
+  title: ""
+  abstract: ""
+  photo: ""
+
 - name: Cynthia Moss
   title: ""
   abstract: ""
   photo: moss.jpg
+
+- name: Eva Naumann
+  title: ""
+  abstract: ""
+  photo: ""
 
 - name: Philip Parker
   title: ""
@@ -112,12 +162,23 @@
   title: ""
   abstract: ""
   photo: ""
+
 - name: Ronen Segev
   title: ""
   abstract: ""
   photo: ""
 
+- name: Adam Sugi
+  title: ""
+  abstract: ""
+  photo: ""
+
 - name: Marie Suver
+  title: ""
+  abstract: ""
+  photo: ""
+
+- name: Avner Wallach
   title: ""
   abstract: ""
   photo: ""
