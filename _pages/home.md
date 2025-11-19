@@ -59,7 +59,7 @@ Senses in Motion: Sensory Processing in Freely Moving Animals
 <h2>Organisers</h2>
 <p class="text-center">
 <a href="https://www.keshavarzilab.com/"><span class="h4" style="white-space: nowrap">Sepiedeh Keshavarzi</span></a> &nbsp;
-<a href="https://znamlab.org"><span class="h4" style="white-space: nowrap">Petr Znamenskiy</a></span> &nbsp;
+<a href="https://znamlab.org"><span class="h4" style="white-space: nowrap">Petr Znamenskiy</span></a> &nbsp;
 <a href="https://mpinb.mpg.de/en/research-groups/groups/behavior-and-brain-organization/group-leader.html"><span class="h4" style="white-space: nowrap">Jason Kerr</span></a><br/>
 </p>
 <h2>Registration</h2>
