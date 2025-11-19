@@ -66,7 +66,7 @@ Senses in Motion: Sensory Processing in Freely Moving Animals
 <p class="text-center">
 <ul>
 <li>To foster scientific discussion, all meeting participants will present a talk or poster. Registration and abstract submission will open in November 2025.</li>
-<li>As the number of participants is limited to 50, selected participants will be in January 2026.</li>
+<li>As the number of participants is limited to 50, selected participants will be notified in January 2026.</li>
 <li>On site accomodation at Harnack House and meals for selected applicants will be provided.</li>
 </ul>
 </p>
