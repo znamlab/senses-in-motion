@@ -52,15 +52,15 @@ Senses in Motion: Sensory Processing in Freely Moving Animals
 {% assign sorted = site.data.speakers | sort: 'name'  %}
 {% for speaker in sorted %}
 {% unless speaker.break %}
-<span class="h5" style="white-space: nowrap">{{ speaker.name }}</span> &nbsp; &nbsp; &nbsp; 
+<span class="h4" style="white-space: nowrap">{{ speaker.name }}</span> &nbsp; &nbsp; &nbsp; 
 {% endunless %}
 {% endfor %}
 </p>
 <h2>Organisers</h2>
 <p class="text-center">
-<a href="https://www.keshavarzilab.com/">Sepiedeh Keshavarzi</a> &nbsp;
-<a href="https://znamlab.org">Petr Znamenskiy</a> &nbsp;
-<a href="https://mpinb.mpg.de/en/research-groups/groups/behavior-and-brain-organization/group-leader.html">Jason Kerr</a><br/>
+<a href="https://www.keshavarzilab.com/"><span class="h4" style="white-space: nowrap">Sepiedeh Keshavarzi</span></a> &nbsp;
+<a href="https://znamlab.org"><span class="h4" style="white-space: nowrap">Petr Znamenskiy</a></span> &nbsp;
+<a href="https://mpinb.mpg.de/en/research-groups/groups/behavior-and-brain-organization/group-leader.html"><span class="h4" style="white-space: nowrap">Jason Kerr</span></a><br/>
 </p>
 <h2>Registration</h2>
 <p class="text-center">
