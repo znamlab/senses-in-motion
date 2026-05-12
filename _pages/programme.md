@@ -6,7 +6,7 @@ sitemap: false
 permalink: /programme
 ---
 
-# Draft programme
+# Meeting programme
 
 <div class="row">
 <div class="col-sm-12">
