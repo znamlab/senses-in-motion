@@ -1,282 +1,385 @@
 - name: Monday, May 18th
+  title: ""
   highlight: true
+  break: true
 
 - name: Arrival and check-in
+  title: ""
   time: "from 15:00"
   location: Reception
+  break: true
 
 - name: Welcome coffee and registration
+  title: ""
   time: "16:30 - 17:00"
   location: Meitner Hall II
+  break: true
 
 - name: Session 1
+  title: ""
   time: "17:00 – 18:30"
   location: ""
+  break: true
 
-- name: "Kevin Briggman: Brain-wide integration of visual and vestibular input during navigation in Danionella cerebrum"
+- name: Kevin Briggman
+  title: "Brain-wide integration of visual and vestibular input during navigation in Danionella cerebrum"
   time: ""
   location: ""
 
-- name: "Valentina Emiliani: All-Optical Neural Circuit Manipulation in Freely Moving Mice Using Flexible Two-Photon Microendoscopes"
+- name: Valentina Emiliani
+  title: "All-Optical Neural Circuit Manipulation in Freely Moving Mice Using Flexible Two-Photon Microendoscopes"
   time: ""
   location: ""
 
-- name: "Damian Wallace: Sequential activation of neurons in PPC layer 2/3 but not layer 5 in freely jumping mice"
+- name: Damian Wallace
+  title: "Sequential activation of neurons in PPC layer 2/3 but not layer 5 in freely jumping mice"
   time: ""
   location: ""
 
-- name: "Alexander Groh: Thalamocortical bursts encode reward contingencies and drive associative learning"
+- name: Alexander Groh
+  title: "Thalamocortical bursts encode reward contingencies and drive associative learning"
   time: ""
   location: ""
 
 - name: Dinner
+  title: ""
   time: "19:00"
   location: ""
+  break: true
 
 - name: Tuesday, May 19th
+  title: ""
   highlight: true
+  break: true
 
 - name: Session 2
+  title: ""
   time: "09:30 - 11:00"
   location: Meitner Hall I
+  break: true
 
-- name: "Benjamin Judkewitz: The smallest vertebrate brain in action"
+- name: Benjamin Judkewitz
+  title: "The smallest vertebrate brain in action"
   time: ""
   location: ""
 
-- name: "Coen Elemans: Vocal constraints limit biosonar emission rates in bat and whale echolocation"
+- name: Coen Elemans
+  title: "Vocal constraints limit biosonar emission rates in bat and whale echolocation"
   time: ""
   location: ""
 
-- name: "Jennifer Bizley: Studying the role of active sensing in sound localisation"
+- name: Jennifer Bizley
+  title: "Studying the role of active sensing in sound localisation"
   time: ""
   location: ""
 
-- name: "Sonja Bisch-Knaden: Coding of natural plant bouquets in the brain of a hawkmoth"
+- name: Sonja Bisch-Knaden
+  title: "Coding of natural plant bouquets in the brain of a hawkmoth"
   time: ""
   location: ""
 
 - name: Coffee break
+  title: ""
   time: "11:00 - 11:30"
   location: Meitner Hall II
+  break: true
 
 - name: Session 3
+  title: ""
   time: "11:30 - 13:00"
   location: Meitner Hall I
+  break: true
 
-- name: "Itai Cohen: Uncovering motor control in insect flight"
+- name: Itai Cohen
+  title: "Uncovering motor control in insect flight"
   time: ""
   location: ""
 
-- name: "Marie Suver: Mechanisms of mechanosensory and motor integration in Drosophila"
+- name: Marie Suver
+  title: "Mechanisms of mechanosensory and motor integration in Drosophila"
   time: ""
   location: ""
 
-- name: "Avner Wallach: What electric fish teach us about prediction, perception, and navigation"
+- name: Avner Wallach
+  title: "What electric fish teach us about prediction, perception, and navigation"
   time: ""
   location: ""
 
-- name: "Ehud Ahissar: The perceptual bottleneck: brain-world loops"
+- name: Ehud Ahissar
+  title: "The perceptual bottleneck: brain-world loops"
   time: ""
   location: ""
 
 - name: Lunch
+  title: ""
   time: "13:00 - 14:00"
   location: Restaurant
+  break: true
 
 - name: Session 4
+  title: ""
   time: "14:00 - 15:30"
   location: Meitner Hall I
+  break: true
 
-- name: "Aneta Koseska: Biological computations across scales"
+- name: Aneta Koseska
+  title: "Biological computations across scales"
   time: ""
   location: ""
 
-- name: "Emily Dennis: From intuition towards mechanisms: how mice can use sound to find hidden prey"
+- name: Emily Dennis
+  title: "From intuition towards mechanisms: how mice can use sound to find hidden prey"
   time: ""
   location: ""
 
-- name: "Florencia Iacaruso: Persistent collicular representations of target kinematics during active pursuit"
+- name: Florencia Iacaruso
+  title: "Persistent collicular representations of target kinematics during active pursuit"
   time: ""
   location: ""
 
-- name: "Eva Naumann: Neural mechanisms of visually driven action selection in larval zebrafish"
+- name: Eva Naumann
+  title: "Neural mechanisms of visually driven action selection in larval zebrafish"
   time: ""
   location: ""
 
 - name: Coffee break
+  title: ""
   time: "15:30 - 16:00"
   location: Meitner Hall II
+  break: true
 
 - name: Session 5
+  title: ""
   time: "16:00 - 17:00"
   location: Meitner Hall I
+  break: true
 
-- name: "Jason Kerr: Hawk vision during aerial target capture in the wild"
+- name: Jason Kerr
+  title: "Hawk vision during aerial target capture in the wild"
   time: ""
   location: ""
 
-- name: "Cindy Poo: Adaptive behavior in a dynamic patch foraging environment"
+- name: Cindy Poo
+  title: "Adaptive behavior in a dynamic patch foraging environment"
   time: ""
   location: ""
 
-- name: "Nacho Sanguinetti: Sensorimotor intelligence of the wild Agouti"
+- name: Nacho Sanguinetti
+  title: "Sensorimotor intelligence of the wild Agouti"
   time: ""
   location: ""
 
 - name: Poster session
+  title: ""
   time: "17:00 - 19:00"
   location: ""
+  break: true
 
 - name: Dinner
+  title: ""
   time: "19:00"
   location: Restaurant
+  break: true
 
 - name: Wednesday, May 20th
+  title: ""
   highlight: true
+  break: true
 
 - name: Session 6
+  title: ""
   time: "09:30 - 11:00"
   location: Meitner Hall I
+  break: true
 
-- name: "Jonathan Whitlock: Cortical coding of posture and the face in freely moving rats"
+- name: Jonathan Whitlock
+  title: "Cortical coding of posture and the face in freely moving rats"
   time: ""
   location: ""
 
-- name: "Jean Laurens: Parietal cortex activity during naturalistic behavior in freely moving marmosets"
+- name: Jean Laurens
+  title: "Parietal cortex activity during naturalistic behavior in freely moving marmosets"
   time: ""
   location: ""
 
-- name: "Tobias Rose: Stability of Visual Processing in Passive and Active Vision"
+- name: Tobias Rose
+  title: "Stability of Visual Processing in Passive and Active Vision"
   time: ""
   location: ""
 
-- name: "Adam Sugi: Layer 6 Control of Visual Cortex in Low Luminance"
+- name: Adam Sugi
+  title: "Layer 6 Control of Visual Cortex in Low Luminance"
   time: ""
   location: ""
 
 - name: Coffee break
+  title: ""
   time: "11:00 - 11:30"
   location: Meitner Hall II
+  break: true
 
 - name: Session 7
+  title: ""
   time: "11:30 - 13:00"
   location: Meitner Hall I
+  break: true
 
-- name: "Chris Angeloni: Hippocampal representations during active avoidance of a mobile threat"
+- name: Chris Angeloni
+  title: "Hippocampal representations during active avoidance of a mobile threat"
   time: ""
   location: ""
 
-- name: "Riccardo Beltramo: The role of an ancestral visual pathway in shaping hippocampal maps"
+- name: Riccardo Beltramo
+  title: "The role of an ancestral visual pathway in shaping hippocampal maps"
   time: ""
   location: ""
 
-- name: "James Knierim: Visual landmark control over path integration circuits"
+- name: James Knierim
+  title: "Visual landmark control over path integration circuits"
   time: ""
   location: ""
 
-- name: "Pascal Malkemper: Absence of the Earth’s magnetic field induces stress in a mammal"
+- name: Pascal Malkemper
+  title: "Absence of the Earth's magnetic field induces stress in a mammal"
   time: ""
   location: ""
 
 - name: Lunch
+  title: ""
   time: "13:00 - 14:00"
   location: Restaurant
+  break: true
 
 - name: Session 8
+  title: ""
   time: "14:00 - 15:30"
   location: Meitner Hall I
+  break: true
 
-- name: "Pauline Fleischmann: Magnetoreception in Motion: The role of the magnetic sense for navigation in desert ants"
+- name: Pauline Fleischmann
+  title: "Magnetoreception in Motion: The role of the magnetic sense for navigation in desert ants"
   time: ""
   location: ""
 
-- name: "Sepiedeh Keshavarzi: Dissecting sensory contributions to spatial orientation in mice"
+- name: Sepiedeh Keshavarzi
+  title: "Dissecting sensory contributions to spatial orientation in mice"
   time: ""
   location: ""
 
-- name: "Ronen Segev: Fish navigation in and out of the lab"
+- name: Ronen Segev
+  title: "Fish navigation in and out of the lab"
   time: ""
   location: ""
 
-- name: "Guy Bouvier: Self- versus Externally-Generated: Head Movement Representations in Primary Visual Cortex"
+- name: Guy Bouvier
+  title: "Self- versus Externally-Generated: Head Movement Representations in Primary Visual Cortex"
   time: ""
   location: ""
 
 - name: Coffee break
+  title: ""
   time: "15:30 - 16:00"
   location: Meitner Hall II
+  break: true
 
-- name: "Dahlem Campus Tours
-Tour 1: 100 Years of Science at Germany's Oxford
+- name: "Dahlem Campus Tours<br>
+Tour 1: 100 Years of Science at Germany's Oxford<br>
 Tour 2: Science Heaven - Dahlem's Nobel Laureates"
+  title: ""
   time: "16:00 - 17:30"
   location: ""
+  break: true
 
 - name: Poster session
+  title: ""
   time: "17:30 - 19:00"
   location: ""
+  break: true
 
 - name: Dinner
+  title: ""
   time: "19:00"
   location: Restaurant
+  break: true
 
 
 - name: Thursday, May 21st
+  title: ""
   highlight: true
+  break: true
 
 - name: Session 9
+  title: ""
   time: "09:30 - 11:00"
   location: Meitner Hall I
+  break: true
 
-- name: "Antonin Blot: Encoding of visuomotor gain for depth estimation"
+- name: Antonin Blot
+  title: "Encoding of visuomotor gain for depth estimation"
   time: ""
   location: ""
 
-- name: "Philip Parker: Beyond the Receptive Field: Visual Cortex Coding During Natural Behavior"
+- name: Philip Parker
+  title: "Beyond the Receptive Field: Visual Cortex Coding During Natural Behavior"
   time: ""
   location: ""
 
-- name: "Lisa Fenk: The emergence of spontaneous and reflexive eye movements in insects"
+- name: Lisa Fenk
+  title: "The emergence of spontaneous and reflexive eye movements in insects"
   time: ""
   location: ""
 
-- name: "Jasper Poort: Comparing the roles of the superior colliculus and primary visual cortex in visual spatial detection in freely moving mice."
+- name: Jasper Poort
+  title: "Comparing the roles of the superior colliculus and primary visual cortex in visual spatial detection in freely moving mice."
   time: ""
   location: ""
 
 - name: Guesthouse check-out
+  title: ""
   time: "11:00"
   location: ""
+  break: true
 
 - name: Coffee break
+  title: ""
   time: "11:00 - 11:30"
   location: Meitner Hall II
+  break: true
 
 - name: Session 10
+  title: ""
   time: "11:30 - 13:00"
   location: Meitner Hall I
+  break: true
 
-- name: "Arkarup Banerjee: Sensorimotor computations underlying vocal communication in singing mice"
+- name: Arkarup Banerjee
+  title: "Sensorimotor computations underlying vocal communication in singing mice"
   time: ""
   location: ""
 
-- name: "Alison Barker: Dynamics of Social Systems: Communication and Cooperation in the Naked Mole-Rat"
+- name: Alison Barker
+  title: "Dynamics of Social Systems: Communication and Cooperation in the Naked Mole-Rat"
   time: ""
   location: ""
 
-- name: "Jesse Goldberg: Parrots imitate song and dance with mixed vocal-gestural neural signals"
+- name: Jesse Goldberg
+  title: "Parrots imitate song and dance with mixed vocal-gestural neural signals"
   time: ""
   location: ""
 
-- name: "Richard Hahnloser: Disentangling zebra finch group-level behaviors"
+- name: Richard Hahnloser
+  title: "Disentangling zebra finch group-level behaviors"
   time: ""
   location: ""
 
 - name: Lunch
+  title: ""
   time: "13:00 - 14:00"
   location: Restaurant
+  break: true
 
 - name: Departure
+  title: ""
   time: "14:00"
   location: ""
+  break: true

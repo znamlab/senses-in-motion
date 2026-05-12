@@ -20,13 +20,20 @@ permalink: /programme
     </tr>
   </thead>
   <tbody>
-    {% for speaker in site.data.speakers %}
+    {% for session in site.data.programme %}
+    {% if session.highlight %}
+    <tr class="table-dark">
+    {% else %}
     <tr>
-      <th scope="row">{{ speaker.time }}</th>
-      <td>{{ speaker.name }}</td>
+    {% endif %}
+      <th scope="row">{{ session.time }}</th>
+      <td>{% unless session.break %}{{ session.name }}{% endunless %}</td>
       <td>
-      {% unless speaker.break %}<a href="{{ site.url }}{{ site.baseurl }}/speakers#{{ speaker.name }}">{% endunless %}{{ speaker.title }}
-      {% unless speaker.break %}</a>{% endunless %}
+      {% if session.break %}
+      {{ session.name }}
+      {% else %}
+      <a href="{{ site.url }}{{ site.baseurl }}/speakers#{{ session.name }}">{{ session.title }}</a>
+      {% endif %}
       </td>
     </tr>
     {% endfor %}
