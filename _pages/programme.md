@@ -32,7 +32,7 @@ permalink: /programme
       {% if session.break %}
       {{ session.name }}
       {% else %}
-      <a href="{{ site.url }}{{ site.baseurl }}/speakers#{{ session.name }}">{{ session.title }}</a>
+      {{ session.title }}
       {% endif %}
       </td>
     </tr>
