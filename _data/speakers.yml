@@ -1,195 +1,195 @@
-- name: Ehud Ahissar
-  title: ""
-  abstract: ""
-  photo: ""
-
-- name: Arkarup Banerjee
-  title: ""
+- name: Adam Sugi
+  title: "Layer 6 Control of Visual Cortex in Low Luminance"
   abstract: ""
   photo: ""
 
 - name: Alison Barker
-  title: ""
-  abstract: ""
-  photo: ""
-
-- name: Riccardo Beltramo
-  title: ""
-  abstract: ""
-  photo: ""
-
-- name: Katie Bentley
-  title: ""
-  abstract: ""
-  photo: ""
-
-- name: Sonja Bisch-Knaden
-  title: ""
-  abstract: ""
-  photo: ""
-
-- name: Jennifer Bizley
-  title: ""
-  abstract: ""
-  photo: bizley.jpg
-
-- name: Antonin Blot
-  title: ""
-  abstract: ""
-  photo: ""
-
-- name: Kevin Briggman
-  title: ""
-  abstract: ""
-  photo: ""
-
-- name: Itai Cohen
-  title: ""
-  abstract: ""
-  photo: ""
-
-- name: Emily Dennis
-  title: ""
-  abstract: ""
-  photo: ""
-
-- name: Coen Elemans
-  title: ""
-  abstract: ""
-  photo: ""
-
-- name: Valentina Emiliani
-  title: ""
-  abstract: ""
-  photo: ""
-
-- name: Lisa Fenk
-  title: ""
-  abstract: ""
-  photo: fenk.jpg
-
-- name: Pauline Fleischmann
-  title: ""
-  abstract: ""
-  photo: ""
-
-- name: Jesse Goldberg
-  title: ""
+  title: "Dynamics of Social Systems: Communication and Cooperation in the Naked Mole-Rat"
   abstract: ""
   photo: ""
 
 - name: Alexander Groh
-  title: ""
-  abstract: ""
-  photo: ""
-
-- name: Richard Hahnloser
-  title: ""
-  abstract: ""
-  photo: ""
-
-- name: Florencia Iacaruso
-  title: ""
-  abstract: ""
-  photo: ""
-
-- name: Benjamin Judkewitz
-  title: ""
-  abstract: ""
-  photo: ""
-
-- name: Jason Kerr
-  title: ""
-  abstract: ""
-  photo: ""
-
-- name: Sepiedeh Keshavarzi
-  title: ""
-  abstract: ""
-  photo: ""
-
-- name: James Knierim
-  title: ""
+  title: "Thalamocortical bursts encode reward contingencies and drive associative learning"
   abstract: ""
   photo: ""
 
 - name: Aneta Koseska
-  title: ""
+  title: "Biological computations across scales"
   abstract: ""
   photo: ""
 
-- name: Jean Laurens
-  title: ""
+- name: Antonin Blot
+  title: "Encoding of visuomotor gain for depth estimation"
   abstract: ""
   photo: ""
 
-- name: Pascal Malkemper
-  title: ""
-  abstract: ""
-  photo: ""
-
-- name: Cynthia Moss
-  title: ""
-  abstract: ""
-  photo: moss.jpg
-
-- name: Eva Naumann
-  title: ""
-  abstract: ""
-  photo: ""
-
-- name: Philip Parker
-  title: ""
-  abstract: ""
-  photo: ""
-
-- name: Cindy Poo
-  title: ""
-  abstract: ""
-  photo: ""
-
-- name: Jasper Poort
-  title: ""
-  abstract: ""
-  photo: ""
-
-- name: Tobias Rose
-  title: ""
-  abstract: ""
-  photo: rose.jpg
-
-- name: Nacho Sanguinetti
-  title: ""
-  abstract: ""
-  photo: ""
-
-- name: Ronen Segev
-  title: ""
-  abstract: ""
-  photo: ""
-
-- name: Adam Sugi
-  title: ""
-  abstract: ""
-  photo: ""
-
-- name: Marie Suver
-  title: ""
+- name: Arkarup Banerjee
+  title: "Sensorimotor computations underlying vocal communication in singing mice"
   abstract: ""
   photo: ""
 
 - name: Avner Wallach
-  title: ""
+  title: "What electric fish teach us about prediction, perception, and navigation"
+  abstract: ""
+  photo: ""
+
+- name: Benjamin Judkewitz
+  title: "The smallest vertebrate brain in action"
+  abstract: ""
+  photo: ""
+
+- name: Chris Angeloni
+  title: "Hippocampal representations during active avoidance of a mobile threat"
+  abstract: ""
+  photo: ""
+
+- name: Cindy Poo
+  title: "Adaptive behavior in a dynamic patch foraging environment"
+  abstract: ""
+  photo: ""
+
+- name: Coen Elemans
+  title: "Vocal constraints limit biosonar emission rates in bat and whale echolocation"
   abstract: ""
   photo: ""
 
 - name: Damian Wallace
-  title: ""
+  title: "Sequential activation of neurons in PPC layer 2/3 but not layer 5 in freely jumping mice"
   abstract: ""
   photo: wallace.png
 
-- name: Johnathan Whitlock
-  title: ""
+- name: Ehud Ahissar
+  title: "The perceptual bottleneck: brain-world loops"
+  abstract: ""
+  photo: ""
+
+- name: Emily Dennis
+  title: "From intuition towards mechanisms: how mice can use sound to find hidden prey"
+  abstract: ""
+  photo: ""
+
+- name: Eva Naumann
+  title: "Neural mechanisms of visually driven action selection in larval zebrafish"
+  abstract: ""
+  photo: ""
+
+- name: Florencia Iacaruso
+  title: "Persistent collicular representations of target kinematics during active pursuit"
+  abstract: ""
+  photo: ""
+
+- name: Guy Bouvier
+  title: "Self- versus Externally-Generated: Head Movement Representations in Primary Visual Cortex"
+  abstract: ""
+  photo: ""
+
+- name: Itai Cohen
+  title: "Uncovering motor control in insect flight"
+  abstract: ""
+  photo: ""
+
+- name: James Knierim
+  title: "Visual landmark control over path integration circuits"
+  abstract: ""
+  photo: ""
+
+- name: Jason Kerr
+  title: "Hawk vision during aerial target capture in the wild"
+  abstract: ""
+  photo: ""
+
+- name: Jasper Poort
+  title: "Comparing the roles of the superior colliculus and primary visual cortex in visual spatial detection in freely moving mice."
+  abstract: ""
+  photo: ""
+
+- name: Jean Laurens
+  title: "Parietal cortex activity during naturalistic behavior in freely moving marmosets"
+  abstract: ""
+  photo: ""
+
+- name: Jennifer Bizley
+  title: "Studying the role of active sensing in sound localisation"
+  abstract: ""
+  photo: bizley.jpg
+
+- name: Jesse Goldberg
+  title: "Parrots imitate song and dance with mixed vocal-gestural neural signals"
+  abstract: ""
+  photo: ""
+
+- name: Jonathan Whitlock
+  title: "Cortical coding of posture and the face in freely moving rats"
   abstract: ""
   photo: whitlock.png
+
+- name: Kevin Briggman
+  title: "Brain-wide integration of visual and vestibular input during navigation in Danionella cerebrum"
+  abstract: ""
+  photo: ""
+
+- name: Lisa Fenk
+  title: "The emergence of spontaneous and reflexive eye movements in insects"
+  abstract: ""
+  photo: fenk.jpg
+
+- name: Marie Suver
+  title: "Mechanisms of mechanosensory and motor integration in Drosophila"
+  abstract: ""
+  photo: ""
+
+- name: Nacho Sanguinetti
+  title: "Sensorimotor intelligence of the wild Agouti"
+  abstract: ""
+  photo: ""
+
+- name: Pascal Malkemper
+  title: "In the dark: Hippocampal representations of space in a strictly subterranean mammal"
+  abstract: ""
+  photo: ""
+
+- name: Pauline Fleischmann
+  title: "Magnetoreception in Motion: The role of the magnetic sense for navigation in desert ants"
+  abstract: ""
+  photo: ""
+
+- name: Philip Parker
+  title: "Beyond the Receptive Field: Visual Cortex Coding During Natural Behavior"
+  abstract: ""
+  photo: ""
+
+- name: Riccardo Beltramo
+  title: "The role of an ancestral visual pathway in shaping hippocampal maps"
+  abstract: ""
+  photo: ""
+
+- name: Richard Hahnloser
+  title: "Disentangling zebra finch group-level behaviors"
+  abstract: ""
+  photo: ""
+
+- name: Ronen Segev
+  title: "Fish navigation in and out of the lab"
+  abstract: ""
+  photo: ""
+
+- name: Sepiedeh Keshavarzi
+  title: "Dissecting sensory contributions to spatial orientation in mice"
+  abstract: ""
+  photo: ""
+
+- name: Sonja Bisch-Knaden
+  title: "Coding of natural plant bouquets in the brain of a hawkmoth"
+  abstract: ""
+  photo: ""
+
+- name: Tobias Rose
+  title: "Stability of Visual Processing in Passive and Active Vision"
+  abstract: ""
+  photo: rose.jpg
+
+- name: Valentina Emiliani
+  title: "All-Optical Neural Circuit Manipulation in Freely Moving Mice Using Flexible Two-Photon Microendoscopes"
+  abstract: ""
+  photo: ""
 
