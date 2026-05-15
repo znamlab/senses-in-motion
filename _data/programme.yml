@@ -290,12 +290,6 @@ Tour 2: Science Heaven - Dahlem's Nobel Laureates"
   location: ""
   break: true
 
-- name: Poster session
-  title: ""
-  time: "17:30 - 19:00"
-  location: ""
-  break: true
-
 - name: Dinner
   title: ""
   time: "19:00"
